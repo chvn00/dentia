@@ -346,12 +346,6 @@
           <button class="provider-btn" id="provider-btn-groq" onclick="setProvider('groq')">⚡ Groq <span>Cloud</span></button>
         </div>
 
-        <!-- Groq API Key -->
-        <div class="groq-key-section" id="groq-key-section" style="display:none">
-          <div class="groq-key-label">API Key <a href="https://console.groq.com/keys" target="_blank" class="groq-key-link">Obtener gratis →</a></div>
-          <input type="password" id="groq-key-input" class="groq-key-input" placeholder="gsk_..." oninput="saveGroqKey(this.value)"/>
-        </div>
-
         <!-- Ollama models -->
         <div class="model-option ollama-model" id="model-llama3-2b" onclick="requestModelChange(this,'llama3.2:3b')">
           <div class="model-radio"></div>
