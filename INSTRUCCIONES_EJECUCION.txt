@@ -1,0 +1,53 @@
+====================================================
+  DentIA — Paso a paso para ejecutar la aplicación
+====================================================
+
+REQUISITOS PREVIOS
+------------------
+1. Tener instalado Ollama
+   Descargar en: https://ollama.com/download
+
+2. Tener instalado Google Chrome
+
+3. Descargar el modelo Qwen3 8B (solo la primera vez)
+   Abrir una terminal y ejecutar:
+   > ollama pull qwen3:8b
+   (puede tardar varios minutos según la conexión)
+
+
+CADA VEZ QUE QUIERA USAR DentIA
+---------------------------------
+Paso 1 — Iniciar Ollama
+   Abrir una terminal y ejecutar:
+   > ollama serve
+   Dejar esa terminal abierta.
+
+Paso 2 — Verificar que Ollama está activo
+   Abrir en el navegador: http://localhost:11434
+   Debe mostrar el texto: "Ollama is running"
+
+Paso 3 — Abrir la aplicación en Chrome
+   Ejecutar en la terminal (otra ventana):
+
+   Mac (copiar y pegar en terminal):
+   > /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --allow-file-access-from-files --disable-web-security --user-data-dir=/tmp/dentia "file:///Users/cesarvalencia/Downloads/DentIA/AgenteDentIA_ProtesisHibridas.html"
+
+   Windows (doble clic en el archivo):
+   > Abrir_DentIA.bat
+
+
+SOLUCIÓN DE PROBLEMAS
+----------------------
+- "No se pudo conectar con Ollama"
+  → Verificar que "ollama serve" está corriendo en la terminal
+
+- Respuestas muy lentas
+  → Qwen3 8B requiere mínimo 8 GB de RAM. Cerrar otras aplicaciones.
+
+- Chrome bloquea el archivo
+  → Asegurarse de abrir Chrome con los flags --allow-file-access-from-files
+
+====================================================
+Modelo activo: qwen3:8b
+Puerto Ollama: http://localhost:11434
+====================================================

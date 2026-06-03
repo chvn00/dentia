@@ -1,0 +1,2419 @@
+[
+  {
+    "id": 1,
+    "title": "Finite element analysis on implant-supported bar with different geometric shapes",
+    "authors": "Kupprano P, Kamonkhantikul K, Homsiang W, Takahashi H, Arksornnukit M",
+    "journal": "BMC Oral Health",
+    "year": 2024,
+    "doi": "10.1186/s12903-024-05373-5",
+    "abstract": "Investigó esfuerzos de von Mises, distribución de esfuerzos y desplazamiento de 4 geometrías de barra conector (L, Y, I, cuadrada) en prótesis híbridas mandibulares con concepto All-on-4. En carga céntrica los esfuerzos máximos se localizaron en el canal del tornillo distal en la mayoría de ISBCs.",
+    "tags": [
+      "fea",
+      "geometria"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 2,
+    "title": "Biomechanical Performance of Implant-Tooth-Supported Prostheses: A Numerical 3D Finite Element Analysis",
+    "authors": "Sadek HS, Anany NM, El-Anwar MI, Alhotan A, Diab AH, Fayad BR, Heiba IM, Shahin IG, Bourauel C, Elshazly TM",
+    "journal": "International Dental Journal",
+    "year": 2025,
+    "doi": "10.1016/j.identj.2025.103882",
+    "abstract": "Evaluó mediante FEA 3D el comportamiento biomecánico de prótesis soportadas conjuntamente por implantes y dientes, comparando configuraciones de anclaje mixto. Analiza distribución de tensiones en diferentes escenarios de soporte implante-diente.",
+    "tags": [
+      "fea",
+      "materiales"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 3,
+    "title": "Evaluation of three hybrid prosthetic designs implant-supported All-on-4. 3D finite element analysis",
+    "authors": "Carmona Ramírez NE, Villaraga Ossa JA, Latorre Correa F",
+    "journal": "Odontología Sanmarquina",
+    "year": 2020,
+    "doi": "10.15381/os.v23i4.17721",
+    "abstract": "Evaluó tres diseños de prótesis implantosoportadas híbridas All-on-4 mediante FEA 3D. Analizó distribución de esfuerzos y deformaciones en función del diseño protésico.",
+    "tags": [
+      "fea",
+      "allon4"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 4,
+    "title": "Influence of prosthesis type and material on the stress distribution in bone around implants: A 3D finite element analysis",
+    "authors": "Meriç G, Erkmen E, Kurt A, Tunç Y, Eser A",
+    "journal": "Journal of Dental Sciences",
+    "year": 2011,
+    "doi": "10.1016/j.jds.2011.02.005",
+    "abstract": "Análisis 3D de elementos finitos sobre cómo el tipo y material de la prótesis afectan la distribución de esfuerzos en el hueso periimplantario.",
+    "tags": [
+      "fea",
+      "materiales",
+      "hueso"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 5,
+    "title": "The role of superstructure material on the stress distribution in mandibular full-arch implant-supported fixed dentures",
+    "authors": "Ferreira MB, Barão VA, Faverani LP, Hipólito AC, Assunção WG",
+    "journal": "Materials Science and Engineering C",
+    "year": 2014,
+    "doi": "10.1016/j.msec.2013.10.022",
+    "abstract": "Evaluó el efecto del material de la superestructura sobre la distribución de esfuerzos en dentaduras fijas implantosoportadas mandibulares de arco completo usando FEA basado en CT.",
+    "tags": [
+      "fea",
+      "materiales"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 6,
+    "title": "Evaluation of the biomechanical behavior of two implant-supported prosthetic designs",
+    "authors": "Latorre F",
+    "journal": "Revista Nacional de Odontología",
+    "year": 2021,
+    "doi": "10.16925/2357-4607.2021.01.05",
+    "abstract": "Evaluación del comportamiento biomecánico de dos diseños protésicos implantosoportados mediante simulación computacional.",
+    "tags": [
+      "fea",
+      "biomecanica"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 7,
+    "title": "Biomechanical behavior of all-on-4 concept and alternative designs under different occlusal load configurations for completely edentulous mandible: a 3-D finite element analysis",
+    "authors": "Şentürk A, Akaltan F",
+    "journal": "Odontology",
+    "year": 2024,
+    "doi": "10.1007/s10266-024-00941-1",
+    "abstract": "Analiza mediante FEA 3D el comportamiento biomecánico del concepto All-on-4 y diseños alternativos en mandíbula edéntula bajo distintas configuraciones de carga. La angulación y posición de los implantes distales influye significativamente en la distribución de estrés periimplantario.",
+    "tags": [
+      "fea",
+      "allon4"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 8,
+    "title": "Evaluation of Biomechanical Effects of Mandible Arch Types in All-on-4 and All-on-5 Dental Implant Design: A 3D Finite Element Analysis",
+    "authors": "Sevinç Gül SN, Murat F, Şensoy AT",
+    "journal": "Journal of Functional Biomaterials",
+    "year": 2025,
+    "doi": "10.3390/jfb16040134",
+    "abstract": "Compara el efecto biomecánico de diferentes tipos de arco mandibular en configuraciones All-on-4 y All-on-5 mediante FEA. La morfología del arco tiene impacto relevante en la distribución de tensiones en implantes y hueso crestal periimplantario.",
+    "tags": [
+      "fea",
+      "allon4"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 9,
+    "title": "A Biomechanical Evaluation of Distal Tilting Implants in All-on-Four Rehabilitation with Mild Mandibular Resorption: A Finite Element Analysis Study",
+    "authors": "Tsai MH, Lee CH, Wu AYJ, Lei YN, Chen HS, Wu YL",
+    "journal": "Materials",
+    "year": 2024,
+    "doi": "10.3390/ma17225435",
+    "abstract": "Evalúa biomecánicamente los implantes distales inclinados en rehabilitación All-on-Four con resorción mandibular leve usando FEA. Los implantes distales inclinados mostraron distribución de estrés favorable en condiciones de resorción moderada.",
+    "tags": [
+      "fea",
+      "allon4"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 10,
+    "title": "Biomechanical analysis of inclined and cantilever design with different implant framework materials in mandibular complete-arch implant restorations",
+    "authors": "Yu W, Li X, Ma X, Xu X",
+    "journal": "Journal of Prosthetic Dentistry",
+    "year": 2022,
+    "doi": "10.1016/j.prosdent.2022.02.018",
+    "abstract": "Análisis biomecánico del diseño inclinado y en cantilever con diferentes materiales de armazón en restauraciones de arco completo mandibulares con implantes.",
+    "tags": [
+      "fea",
+      "materiales",
+      "cantilever"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 11,
+    "title": "Biomechanical comparison of implant inclinations and load times with the all-on-4 treatment concept: a three-dimensional finite element analysis",
+    "authors": "Liu T, Mu Z, Yu T, Wang C, Huang Y",
+    "journal": "Computer Methods in Biomechanics and Biomedical Engineering",
+    "year": 2019,
+    "doi": "10.1080/10255842.2019.1572120",
+    "abstract": "Comparación biomecánica mediante FEA 3D de diferentes inclinaciones de implantes y tiempos de carga en el concepto All-on-4. Evalúa cómo la inclinación de los implantes distales y los protocolos de carga afectan la distribución de esfuerzos en la mandíbula edéntula.",
+    "tags": [
+      "fea",
+      "cantilever",
+      "allon4"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 12,
+    "title": "Biomechanical Implications of Mandibular Flexion on Implant-Supported Full-Arch Rehabilitations: A Systematic Literature Review",
+    "authors": "Caggiano M, D'Ambrosio F, Acerra A, Giudice D, Giordano F",
+    "journal": "Journal of Clinical Medicine",
+    "year": 2023,
+    "doi": "10.3390/jcm12165302",
+    "abstract": "Revisión sistemática sobre las implicaciones biomecánicas de la flexión mandibular en rehabilitaciones de arco completo implantosoportadas.",
+    "tags": [
+      "fea",
+      "biomecanica"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 13,
+    "title": "Hybrid surface implants: Influence of residual stress on mechanical behavior, evaluated by finite element analysis and validation by fatigue tests",
+    "authors": "Sanjuán M, Brizuela-Velasco A, Gil J, Cerrolaza M et al.",
+    "journal": "Dental Materials",
+    "year": 2024,
+    "doi": "10.1016/j.dental.2023.10.002",
+    "abstract": "Evaluó la influencia del estrés residual en el comportamiento mecánico de implantes de superficie híbrida mediante FEA validado por pruebas de fatiga.",
+    "tags": [
+      "fea",
+      "materiales"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 14,
+    "title": "Bone quality effect on short implants in the edentulous mandible: a finite element study",
+    "authors": "Liu C, Xing Y, Li Y et al.",
+    "journal": "BMC Oral Health",
+    "year": 2022,
+    "doi": "10.1186/s12903-022-02164-8",
+    "abstract": "Verificó si el uso de implantes cortos podría optimizar la distribución de esfuerzos óseos periimplantarios en mandíbulas atróficas con diferentes calidades óseas.",
+    "tags": [
+      "fea",
+      "hueso"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 15,
+    "title": "Three-dimensional finite element analysis of stress distribution on short implants with different bone conditions and osseointegration rates",
+    "authors": "Yang Y, Liu Y, Yuan X et al.",
+    "journal": "BMC Oral Health",
+    "year": 2023,
+    "doi": "10.1186/s12903-023-02945-9",
+    "abstract": "FEA 3D de distribución de esfuerzos en implantes cortos con diferentes condiciones óseas y tasas de osteointegración. La tasa de osteointegración tuvo el mayor efecto en el estrés principal máximo en hueso cortical tipo III.",
+    "tags": [
+      "fea",
+      "hueso"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 16,
+    "title": "Finite element analysis: A boon to dentistry",
+    "authors": "Trivedi S",
+    "journal": "Journal of Oral Biology and Craniofacial Research",
+    "year": 2014,
+    "doi": "10.1016/j.jobcr.2014.11.008",
+    "abstract": "Revisión del método de elementos finitos como herramienta fundamental en investigación dental, explicando sus principios y aplicaciones.",
+    "tags": [
+      "fea"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 17,
+    "title": "Should oral implants be splinted in a mandibular implant-supported fixed complete denture? A 3D-model FEA",
+    "authors": "Alvarez-Arenal A, Brizuela-Velasco A, Dellanos-Lanchares H, Gonzalez-Gonzalez I",
+    "journal": "Journal of Prosthetic Dentistry",
+    "year": 2014,
+    "doi": "10.1016/j.prosdent.2013.12.004",
+    "abstract": "FEA sobre si los implantes orales deben ser ferulizados en una dentadura completa fija implantosoportada mandibular.",
+    "tags": [
+      "fea",
+      "biomecanica"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 18,
+    "title": "Implant-retained mandibular bar-supported overlay dentures: A FEA of four different bar heights",
+    "authors": "Rismanchian M, Dakhilalian M, Bajoghli F, Ghasemi E, Sadr-Eshkevari P",
+    "journal": "Journal of Oral Implantology",
+    "year": 2012,
+    "doi": "10.1563/AAID-JOI-D-09-00037.1",
+    "abstract": "Análisis de elementos finitos de sobredentaduras mandibulares sobre barra implantosoportada con cuatro alturas de barra diferentes.",
+    "tags": [
+      "fea",
+      "geometria"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 19,
+    "title": "The influence of bone quality on the biomechanical behavior of full-arch implant-supported fixed prostheses",
+    "authors": "Faverani LP, Barao VA, Pires Fracalossi AC, Assunção WG, Gonçalves Gennari Filho H, Watanabe E, Delben JA",
+    "journal": "Materials Science and Engineering C",
+    "year": 2014,
+    "doi": "10.1016/j.msec.2014.01.013",
+    "abstract": "Evalúa mediante FEA cómo la calidad ósea tipo I–IV afecta la distribución de esfuerzos en prótesis fijas de arco completo mandibular soportadas por cuatro implantes. Los huesos tipo 1 y 2 son los más adecuados; el tipo 4 mostró valores de estrés ~22% mayores en hueso cortical.",
+    "tags": [
+      "fea",
+      "materiales"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 20,
+    "title": "Influence of framework material on stress distribution in maxillary complete-arch fixed prostheses supported by four dental implants",
+    "authors": "Dayan SC, Geckili O",
+    "journal": "Computer Methods in Biomechanics and Biomedical Engineering",
+    "year": 2021,
+    "doi": "10.1080/10255842.2021.1903450",
+    "abstract": "FEA sobre la influencia del material del armazón en la distribución de esfuerzos en prótesis fijas de arco completo maxilar soportadas por cuatro implantes.",
+    "tags": [
+      "fea",
+      "materiales"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 21,
+    "title": "Biomechanical Evaluation of Bone Atrophy and Implant Length in Four Implants Supporting Mandibular Full-Arch-Fixed Dentures",
+    "authors": "Huang HL, Tsai HL, Wu YL, Hsu JT, Wu AYJ",
+    "journal": "Materials",
+    "year": 2022,
+    "doi": "10.3390/ma15093295",
+    "abstract": "Evalúa mediante FEA cómo la resorción ósea y la longitud del implante afectan la distribución de estrés en implantes All-on-Four mandibulares. La atrofia ósea y su diagnóstico presurgical son cruciales para el pronóstico implantológico a largo plazo.",
+    "tags": [
+      "fea",
+      "allon4"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 22,
+    "title": "Comparative stress analysis of lingualized and conventional balanced occlusion in full-arch fixed implant prosthesis",
+    "authors": "Hasan MA, Shiakolas PS",
+    "journal": "Journal of Mechanics in Medicine and Biology",
+    "year": 2017,
+    "doi": "10.1142/S0219519417500749",
+    "abstract": "Análisis comparativo de esfuerzos de esquemas de oclusión lingualizada versus oclusión balanceada convencional en prótesis fijas de arco completo sobre implantes.",
+    "tags": [
+      "fea",
+      "biomecanica"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 23,
+    "title": "A finite element analysis study on different angle correction designs for inclined implants in All-On-Four protocol",
+    "authors": "Ibrahim CRM, Sameh A, Askar O",
+    "journal": "BMC Oral Health",
+    "year": 2024,
+    "doi": "10.1186/s12903-024-04091-2",
+    "abstract": "Estudio FEA sobre diferentes diseños de corrección de ángulo para implantes inclinados en el protocolo All-on-Four.",
+    "tags": [
+      "fea",
+      "allon4"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 24,
+    "title": "Biomechanical Analysis of Titanium Dental Implants in the All-on-4 Treatment with Different Implant-Abutment Connections: A Three-Dimensional Finite Element Study",
+    "authors": "Wang PS, Tsai MH, Wu YL, Chen HS, Lei YN, Wu AYJ",
+    "journal": "Journal of Functional Biomaterials",
+    "year": 2023,
+    "doi": "10.3390/jfb14100515",
+    "abstract": "Analiza mediante FEA 3D las conexiones implante-pilar en el tratamiento All-on-4 con implantes de titanio. La conexión hexágono externo mostró valores de estrés pico 37% menores que el hexágono interno en tornillos e implantes.",
+    "tags": [
+      "fea",
+      "allon4"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 25,
+    "title": "Evaluation of stresses on implant, bone, and restorative materials caused by different opposing arch materials in hybrid prosthetic restorations using All-on-4",
+    "authors": "Haroun F, Ozan O",
+    "journal": "Materials",
+    "year": 2021,
+    "doi": "10.3390/ma14154308",
+    "abstract": "Evaluó los esfuerzos sobre implante, hueso y materiales restauradores causados por diferentes materiales del arco antagonista en restauraciones protésicas híbridas con All-on-4.",
+    "tags": [
+      "fea",
+      "materiales",
+      "allon4"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 26,
+    "title": "Experimental and numerical investigations of fracture and fatigue behaviour of implant-supported bars with distal extension made of three different materials",
+    "authors": "Mochalski J, Fröhls C, Keilig L, Bourauel C, Dörsam I",
+    "journal": "Biomedizinische Technik",
+    "year": 2021,
+    "doi": "10.1515/bmt-2020-0157",
+    "abstract": "Investigaciones experimentales y numéricas sobre el comportamiento de fractura y fatiga de barras implantosoportadas con extensión distal fabricadas en tres materiales diferentes.",
+    "tags": [
+      "fea",
+      "materiales"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 27,
+    "title": "The Influence of Design on Stress Concentration Reduction in Dental Implant Systems Using the Finite Element Method",
+    "authors": "Pala E, Ozdemir I, Grund T, Lampke T",
+    "journal": "Crystals",
+    "year": 2024,
+    "doi": "10.3390/cryst14010020",
+    "abstract": "Analizó la influencia del diseño en la reducción de concentración de esfuerzos en sistemas de implantes dentales usando el método de elementos finitos.",
+    "tags": [
+      "fea",
+      "biomecanica"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 28,
+    "title": "Effect of different cross sections of polyetheretherketone splinting bars in maxillary All-on-4 implant supported interim prosthesis: FEA study",
+    "authors": "Abdelrahman RM, Abdelfattah AM, Kothayer M",
+    "journal": "BMC Oral Health",
+    "year": 2025,
+    "doi": "10.1186/s12903-025-06542-w",
+    "abstract": "FEA del efecto de diferentes secciones transversales de barras de ferulización de PEEK en prótesis interinas All-on-4 maxilar.",
+    "tags": [
+      "fea",
+      "geometria",
+      "materiales"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 29,
+    "title": "Trabecular bone modulus-density relationships depend on anatomic site",
+    "authors": "Morgan EF, Bayraktar HH, Keaveny TM",
+    "journal": "Journal of Biomechanics",
+    "year": 2003,
+    "doi": "10.1016/S0021-9290(03)00071-X",
+    "abstract": "Estableció las relaciones módulo-densidad del hueso trabecular dependientes del sitio anatómico, fundamentales para la modelación en FEA dental.",
+    "tags": [
+      "fea",
+      "hueso"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 30,
+    "title": "Young's modulus of trabecular and cortical bone material: Ultrasonic and microtensile measurements",
+    "authors": "Rho JY, Ashman RB, Turner CH",
+    "journal": "Journal of Biomechanics",
+    "year": 1993,
+    "doi": "10.1016/0021-9290(93)90042-D",
+    "abstract": "Mediciones del módulo de Young de material óseo trabecular y cortical mediante ultrasonidos y microtracción.",
+    "tags": [
+      "fea",
+      "hueso"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 31,
+    "title": "Elastic properties of human cortical and trabecular lamellar bone measured by nanoindentation",
+    "authors": "Rho JY, Tsui TY, Pharr GM",
+    "journal": "Biomaterials",
+    "year": 1997,
+    "doi": "10.1016/S0142-9612(97)00073-2",
+    "abstract": "Propiedades elásticas del hueso cortical y trabecular lamellar humano medidas por nanoindentación, referencia fundamental de propiedades materiales para FEA.",
+    "tags": [
+      "fea",
+      "hueso"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 32,
+    "title": "Framework materials for full-arch implant-supported rehabilitations: A systematic review of clinical studies",
+    "authors": "Delucchi F, De Giovanni E, Pesce P et al.",
+    "journal": "Materials",
+    "year": 2021,
+    "doi": "10.3390/ma14123251",
+    "abstract": "Revisión sistemática de estudios clínicos sobre materiales de armazón para rehabilitaciones de arco completo implantosoportadas. Comparó cromo-cobalto, titanio, zirconia y PEEK.",
+    "tags": [
+      "materiales",
+      "sistematica"
+    ],
+    "category": "materiales"
+  },
+  {
+    "id": 33,
+    "title": "Misfit of Implant-Supported Zirconia (Y-TZP) CAD-CAM Framework Compared to Non-Zirconia Frameworks: A Systematic Review",
+    "authors": "Alsayed HD",
+    "journal": "Medicina (Lithuania)",
+    "year": 2022,
+    "doi": "10.3390/medicina58101347",
+    "abstract": "Revisión sistemática sobre el desajuste de armazones de zirconia (Y-TZP) CAD-CAM en comparación con armazones no zirconianos en prótesis implantosoportadas.",
+    "tags": [
+      "materiales",
+      "sistematica"
+    ],
+    "category": "materiales"
+  },
+  {
+    "id": 34,
+    "title": "Complete Arch Monolithic Zirconia Prosthesis Supported By Cobalt Chromium Metal Bar: A Clinical Report",
+    "authors": "Bidra AS",
+    "journal": "Journal of Prosthodontics",
+    "year": 2020,
+    "doi": "10.1111/jopr.13172",
+    "abstract": "Reporte clínico sobre el uso de prótesis de zirconia monolítica de arco completo soportada por una barra metálica de cromo-cobalto en paciente con bruxismo.",
+    "tags": [
+      "materiales",
+      "clinico"
+    ],
+    "category": "materiales"
+  },
+  {
+    "id": 35,
+    "title": "Outcomes and Complications of 33 Soft-Milled Cobalt-Chromium-Ceramic Full-Arch Screw-Retained Implant-Supported Prostheses",
+    "authors": "Heller H, Beitlitum I, Goldberger T et al.",
+    "journal": "Journal of Functional Biomaterials",
+    "year": 2023,
+    "doi": "10.3390/jfb14030157",
+    "abstract": "Estudio retrospectivo de resultados y complicaciones en 33 prótesis de arco completo implantosoportadas de cromo-cobalto cerámicas con seguimiento hasta 10 años. Tasas de supervivencia acumulada: 97.1% implantes, 100% prótesis.",
+    "tags": [
+      "materiales",
+      "clinico"
+    ],
+    "category": "materiales"
+  },
+  {
+    "id": 36,
+    "title": "Mechanical and Biological Complications Two Years After Full-Arch Implant-Supported Prosthetic Rehabilitation: A Retrospective Clinical Study",
+    "authors": "Sabău DT, Popescu AM, Bucur MV, Coman-Neamtu O, Burlibasa M, Constantin MM, Ilinca R",
+    "journal": "Clinics and Practice",
+    "year": 2025,
+    "doi": "10.3390/clinpract15070134",
+    "abstract": "Estudio retrospectivo en 70 pacientes sobre complicaciones mecánicas y biológicas a dos años de rehabilitación de arco completo implantosoportada. Las complicaciones mecánicas ocurrieron en el 41.4% de los casos, siendo la fractura del armazón la más frecuente.",
+    "tags": [
+      "materiales",
+      "clinico"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 37,
+    "title": "Realization of a dental framework by 3D printing in material cobalt-chromium with superior precision and fitting accuracy",
+    "authors": "Edelmann A, Riedel L, Hellmann R",
+    "journal": "Materials",
+    "year": 2020,
+    "doi": "10.3390/ma13235390",
+    "abstract": "Implementación de un armazón dental por impresión 3D en cobalto-cromo con precisión y exactitud de ajuste superiores.",
+    "tags": [
+      "materiales",
+      "cadcam"
+    ],
+    "category": "materiales"
+  },
+  {
+    "id": 38,
+    "title": "Precision of fit of titanium and cast implant frameworks using a new matching formula",
+    "authors": "Sierraalta M, Vivas JL, Razzoog ME, Wang RF",
+    "journal": "International Journal of Dentistry",
+    "year": 2012,
+    "doi": "10.1155/2012/374315",
+    "abstract": "Precisión de ajuste de armazones de titanio e implantes colados usando una nueva fórmula de coincidencia.",
+    "tags": [
+      "materiales",
+      "pasividad"
+    ],
+    "category": "materiales"
+  },
+  {
+    "id": 39,
+    "title": "Strain-Based Fatigue Experimental Study on Ti-6Al-4V Alloy Manufactured by Electron Beam Melting",
+    "authors": "Pertuz-Comas AD, González-Estrada OA et al.",
+    "journal": "Journal of Manufacturing and Materials Processing",
+    "year": 2023,
+    "doi": "10.3390/jmmp7010025",
+    "abstract": "Estudio experimental de fatiga basado en deformaciones en aleación Ti-6Al-4V fabricada por fusión por haz de electrones.",
+    "tags": [
+      "materiales"
+    ],
+    "category": "materiales"
+  },
+  {
+    "id": 40,
+    "title": "Rehabilitation of severely atrophic ridges using hybrid prostheses fabricated with cobalt-chromium laser sintering technology",
+    "authors": "Marcus Vaccarezza N et al.",
+    "journal": "Revista Clínica de Periodoncia, Implantología y Rehabilitación Oral",
+    "year": 2016,
+    "doi": "10.1016/j.piro.2015.03.007",
+    "abstract": "Reporte de caso de rehabilitación de rebordes severamente atróficos mediante prótesis híbridas confeccionadas con tecnología de sinterización láser cromo-cobalto.",
+    "tags": [
+      "materiales",
+      "clinico"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 41,
+    "title": "Tensile Yield Strain of Human Cortical Bone from the Femoral Diaphysis Is Constant among Healthy Adults",
+    "authors": "Baleani M, Erani P, Acciaioli A, Schileo E",
+    "journal": "Bioengineering",
+    "year": 2024,
+    "doi": "10.3390/bioengineering11040395",
+    "abstract": "Estudio sobre la deformación de fluencia en tracción del hueso cortical humano de la diáfisis femoral, constante entre adultos sanos y en cuadrantes anatómicos.",
+    "tags": [
+      "materiales",
+      "hueso"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 42,
+    "title": "Tensile Mechanical Properties of Dry Cortical Bone Extracellular Matrix",
+    "authors": "Indermaur M, Casari D, Kochetkova T et al.",
+    "journal": "JBMR Plus",
+    "year": 2023,
+    "doi": "10.1002/jbm4.10826",
+    "abstract": "Propiedades mecánicas en tracción de la matriz extracelular del hueso cortical seco. Referencia para propiedades de materiales en modelos FEA.",
+    "tags": [
+      "materiales",
+      "hueso"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 43,
+    "title": "Evaluación de tres diseños de prótesis implantosoportadas híbridas All-on-4. Análisis de elementos finitos 3D",
+    "authors": "Carmona Ramírez NE, Villaraga Ossa JA, Latorre Correa F",
+    "journal": "Odontología Sanmarquina",
+    "year": 2020,
+    "doi": "10.15381/os.v23i4.17721",
+    "abstract": "Evaluó tres diseños de prótesis implantosoportadas híbridas All-on-4 mediante FEA 3D, analizando la influencia del diseño en la distribución de esfuerzos.",
+    "tags": [
+      "fea",
+      "geometria",
+      "allon4"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 44,
+    "title": "Full-Arch Implant Framework Casting Accuracy: Preliminary In Vitro Observation",
+    "authors": "Carr AB, Stewart RB",
+    "journal": "Journal of Prosthodontics",
+    "year": 1993,
+    "doi": "10.1111/j.1532-849X.1993.tb00373.x",
+    "abstract": "Observaciones preliminares in vitro sobre la precisión de colado de armazones de implantes de arco completo.",
+    "tags": [
+      "geometria",
+      "pasividad"
+    ],
+    "category": "materiales"
+  },
+  {
+    "id": 45,
+    "title": "An investigation to determine if a single validated density-elasticity relationship can be used for subject specific FEA of human long bones",
+    "authors": "Eberle S, Göttlinger M, Augat P",
+    "journal": "Medical Engineering and Physics",
+    "year": 2013,
+    "doi": "10.1016/j.medengphy.2012.08.022",
+    "abstract": "Investigación para determinar si una relación densidad-elasticidad validada puede usarse para análisis de elementos finitos específicos del sujeto en huesos largos.",
+    "tags": [
+      "fea",
+      "hueso"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 46,
+    "title": "\"All-on-four\" immediate-function concept with Brånemark system implants for completely edentulous mandibles: A retrospective clinical study",
+    "authors": "Maló P, Rangert B, Nobre M",
+    "journal": "Clinical Implant Dentistry and Related Research",
+    "year": 2003,
+    "doi": "10.1111/j.1708-8208.2003.tb00010.x",
+    "abstract": "Estudio clínico retrospectivo original que introdujo el concepto All-on-4 con implantes Brånemark para mandíbulas completamente edéntulas con carga inmediata.",
+    "tags": [
+      "allon4",
+      "clinico"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 47,
+    "title": "Distally Tilted Implants According to the All-on-Four® Treatment Concept for the Rehabilitation of Complete Edentulism: A 3.5-Year Retrospective Radiographic Study of Clinical Outcomes and Marginal Bone Level Changes",
+    "authors": "Szabó ÁL, Nagy ÁL, Lászlófy C, Gajdács M, Bencsik P, Kárpáti K, Baráth Z",
+    "journal": "Dentistry Journal",
+    "year": 2022,
+    "doi": "10.3390/dj10050082",
+    "abstract": "Estudio retrospectivo de 3.5 años sobre implantes distales inclinados en concepto All-on-Four, evaluando resultados clínicos y cambios en el nivel óseo marginal. Los resultados radiográficos mostraron cambios óseos marginales estables a lo largo del seguimiento.",
+    "tags": [
+      "allon4",
+      "clinico"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 48,
+    "title": "Maxillary and mandibular all-on-four implant designs: A review",
+    "authors": "Durkan R, Oyar P, Deste G",
+    "journal": "Nigerian Journal of Clinical Practice",
+    "year": 2019,
+    "doi": "10.4103/njcp.njcp_273_18",
+    "abstract": "Revisión de los diseños All-on-Four maxilares y mandibulares, abordando principios biomecánicos, técnicas quirúrgicas y consideraciones protésicas.",
+    "tags": [
+      "allon4",
+      "biomecanica"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 49,
+    "title": "Implant survival and biologic complications of implant fixed complete dental prostheses",
+    "authors": "Chochlidakis K, Ercoli C, Einarsdottir E et al.",
+    "journal": "Journal of Prosthetic Dentistry",
+    "year": 2022,
+    "doi": "10.1016/j.prosdent.2020.12.011",
+    "abstract": "Estudio retrospectivo de hasta 5 años sobre supervivencia de implantes y complicaciones biológicas de prótesis dentales completas fijas implantosoportadas.",
+    "tags": [
+      "allon4",
+      "clinico"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 50,
+    "title": "Occlusal considerations for full-arch implant-supported prostheses: A guideline",
+    "authors": "Yoon D, Pannu D, Hunt M, Londono J",
+    "journal": "Dentistry Review",
+    "year": 2022,
+    "doi": "10.1016/j.dentre.2022.100042",
+    "abstract": "Guía sobre consideraciones oclusales para prótesis de arco completo implantosoportadas, incluyendo esquemas de oclusión y control del cantilever.",
+    "tags": [
+      "cantilever",
+      "biomecanica"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 51,
+    "title": "Effect of cantilevers for implant-supported prostheses on marginal bone loss and prosthetic complications: systematic review and meta-analysis",
+    "authors": "Torrecillas-Martínez L, Monje A, Lin GH, Suarez F, Ortega-Oller I, Galindo-Moreno P, Wang HL",
+    "journal": "International Journal of Oral & Maxillofacial Implants",
+    "year": 2014,
+    "doi": "10.11607/jomi.3660",
+    "abstract": "Revisión sistemática y metaanálisis sobre el efecto de los voladizos en prótesis implantosoportadas sobre la pérdida ósea marginal y complicaciones protésicas. La pérdida ósea marginal no parece estar influenciada significativamente por la presencia de extensiones en cantilever.",
+    "tags": [
+      "cantilever",
+      "sistematica"
+    ],
+    "category": "sistematica"
+  },
+  {
+    "id": 52,
+    "title": "Biomechanical considerations in osseointegrated prostheses",
+    "authors": "Skalak R",
+    "journal": "Journal of Prosthetic Dentistry",
+    "year": 1983,
+    "doi": "10.1016/0022-3913(83)90361-X",
+    "abstract": "Estudio fundacional sobre las consideraciones biomecánicas en prótesis oseointegradas, incluyendo distribución de fuerzas y cantilever.",
+    "tags": [
+      "cantilever",
+      "biomecanica"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 53,
+    "title": "A comparison of lingualized occlusion and monoplane occlusion in complete dentures",
+    "authors": "Clough HE, Knodle JM, Leeper SH et al.",
+    "journal": "Journal of Prosthetic Dentistry",
+    "year": 1983,
+    "doi": "10.1016/0022-3913(83)90007-0",
+    "abstract": "Comparación de oclusión lingualizada versus monoplane en dentaduras completas, referencia histórica para esquemas oclusales.",
+    "tags": [
+      "cantilever",
+      "biomecanica"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 54,
+    "title": "Prevalence of subjects with progressive bone loss at implants",
+    "authors": "Fransson C, Lekholm U, Jemt T, Berglundh T",
+    "journal": "Clinical Oral Implants Research",
+    "year": 2005,
+    "doi": "10.1111/j.1600-0501.2005.01137.x",
+    "abstract": "Estudio sobre la prevalencia de sujetos con pérdida ósea progresiva periimplantaria en el seguimiento a largo plazo.",
+    "tags": [
+      "hueso",
+      "clinico"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 55,
+    "title": "Long-term treatment outcomes in edentulous patients with implant overdentures: The Toronto Study",
+    "authors": "Attard NJ, Zarb GA",
+    "journal": "Journal of Prosthetic Dentistry",
+    "year": 2005,
+    "doi": "10.1016/j.prosdent.2004.09.018",
+    "abstract": "Resultados del tratamiento a largo plazo en pacientes edéntulos con sobredentaduras sobre implantes — El Estudio Toronto.",
+    "tags": [
+      "hueso",
+      "clinico"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 56,
+    "title": "Effect of Integration Patterns Around Implant Neck on Stress Distribution in Peri-Implant Bone: A Finite Element Analysis",
+    "authors": "Han J, Sun Y, Wang C",
+    "journal": "Journal of Prosthodontics",
+    "year": 2017,
+    "doi": "10.1111/jopr.12434",
+    "abstract": "Analiza mediante FEA cómo los diferentes patrones de integración ósea alrededor del cuello del implante afectan la distribución de estrés en el hueso periimplantario. La integración en las capas inferiores del cuello mejora la capacidad de carga sin incrementar el riesgo de resorción apical.",
+    "tags": [
+      "hueso",
+      "fea"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 57,
+    "title": "Effect of Bone Quality, Implant Length, and Loading Timing on Stress Transmission in the Posterior Mandible: A FEA",
+    "authors": "Has LC, Orbak R",
+    "journal": "Bioengineering",
+    "year": 2025,
+    "doi": "10.3390/bioengineering12080888",
+    "abstract": "Evaluó los efectos biomecánicos de la longitud del implante, morfología mandibular, aplicación de injerto, momento de carga y dirección de fuerza en distribución de esfuerzos periimplantarios.",
+    "tags": [
+      "hueso",
+      "fea"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 58,
+    "title": "Effect of short implant crown-to-implant ratio on stress distribution in anisotropic bone with different osseointegration rates",
+    "authors": "Yuan X, Liu Y, Yang Y, Ren M, Luo L, Zheng L, Liu Y",
+    "journal": "BMC Oral Health",
+    "year": 2023,
+    "doi": "10.1186/s12903-023-03379-z",
+    "abstract": "Evalúa cómo la proporción corona-implante en implantes cortos afecta la distribución de estrés en hueso anisotrópico con distintos niveles de oseointegración. Con tasas de oseointegración deficientes y proporción ≥2.5, el riesgo de fallo mecánico aumenta significativamente.",
+    "tags": [
+      "hueso",
+      "fea"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 59,
+    "title": "A Comparative Evaluation of Stress Distribution Around Different Widths of Implant and Bony Interface",
+    "authors": "Pai DR, Prabhu DM et al.",
+    "journal": "Cureus",
+    "year": 2024,
+    "doi": "10.7759/cureus.62674",
+    "abstract": "Evaluó comparativamente la distribución de esfuerzos alrededor de implantes de diferentes anchuras e interfaz ósea durante carga axial y no axial.",
+    "tags": [
+      "hueso",
+      "fea"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 60,
+    "title": "Bruxism and dental implants: A systematic review and meta-analysis",
+    "authors": "Häggman-Henrikson B, Ali D, Aljamal M, Chrcanovic BR",
+    "journal": "Journal of Oral Rehabilitation",
+    "year": 2024,
+    "doi": "10.1111/joor.13567",
+    "abstract": "Revisión sistemática y metaanálisis sobre bruxismo e implantes dentales. Encontró que el bruxismo aumentó el riesgo de complicaciones mecánicas no específicas 6.10 veces.",
+    "tags": [
+      "bruxismo",
+      "sistematica"
+    ],
+    "category": "sistematica"
+  },
+  {
+    "id": 61,
+    "title": "Relationship between bruxism and different types of mechanical complications in implant-supported prosthesis: A systematic review with meta-analysis",
+    "authors": "de Araujo Vidal R, Martins VC, de Figueiredo EZ, Roithmann CC, Bertuzzi D, Grossi ML",
+    "journal": "Journal of Prosthodontics",
+    "year": 2025,
+    "doi": "10.1111/jopr.70046",
+    "abstract": "Revisión sistemática con metaanálisis sobre la relación entre bruxismo y complicaciones mecánicas en prótesis implantosoportadas. El bruxismo incrementa significativamente el riesgo de fractura de implante (OR=16.14) y fractura del tornillo protésico (OR=7.07).",
+    "tags": [
+      "bruxismo",
+      "sistematica"
+    ],
+    "category": "sistematica"
+  },
+  {
+    "id": 62,
+    "title": "Bruxism in implant-supported rehabilitations: a narrative review of clinical complications and management strategies",
+    "authors": "Shafiee E, Nourizadeh A",
+    "journal": "BMC Oral Health",
+    "year": 2025,
+    "doi": "10.1186/s12903-025-07005-y",
+    "abstract": "Revisión narrativa sobre las complicaciones clínicas del bruxismo en rehabilitaciones con implantes y las estrategias de manejo disponibles. Los pacientes bruxistas presentan un riesgo de fallo implantológico 2.2–4.7 veces mayor que los no bruxistas.",
+    "tags": [
+      "bruxismo",
+      "clinico"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 63,
+    "title": "Dental Implant Failure Risk in Patients with Bruxism — A Systematic Review and Meta-Analysis of the Literature",
+    "authors": "Ionfrida JA, Stiller HL, Kämmerer PW, Walter C",
+    "journal": "Dentistry Journal",
+    "year": 2024,
+    "doi": "10.3390/dj13010011",
+    "abstract": "Revisión sistemática y metaanálisis sobre el riesgo de fallo de implantes dentales en pacientes con bruxismo. La OR agrupada fue 4.68, confirmando que el bruxismo es un factor de riesgo significativo para el fallo implantológico.",
+    "tags": [
+      "bruxismo",
+      "sistematica"
+    ],
+    "category": "sistematica"
+  },
+  {
+    "id": 64,
+    "title": "Bruxism and dental implant treatment complications: a retrospective comparative study of 98 bruxer patients and a matched group",
+    "authors": "Chrcanovic BR, Kisch J, Albrektsson T, Wennerberg A",
+    "journal": "Clinical Oral Implants Research",
+    "year": 2017,
+    "doi": "10.1111/clr.12844",
+    "abstract": "Estudio comparativo retrospectivo en 98 pacientes bruxistas que muestra que el bruxismo incrementa significativamente el riesgo de fallo de implantes (OR=2.71) y complicaciones protésicas comparado con grupo control emparejado.",
+    "tags": [
+      "bruxismo",
+      "clinico"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 65,
+    "title": "Protocol for the clinical assessment of passive fit for multiple implant-supported prostheses: A dental technique",
+    "authors": "Figueras-Alvarez O, Cantó-Navés O, Real-Voltas F, Roig M",
+    "journal": "Journal of Prosthetic Dentistry",
+    "year": 2021,
+    "doi": "10.1016/j.prosdent.2020.10.001",
+    "abstract": "Describió un protocolo clínico actualizado para evaluar el ajuste pasivo durante el proceso de fabricación de la prótesis, incluyendo prueba Sheffield y gráfico torque/tiempo.",
+    "tags": [
+      "pasividad",
+      "protocolo"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 66,
+    "title": "Passive Fit in Screw Retained Multi-unit Implant Prosthesis Understanding and Achieving: A Review of the Literature",
+    "authors": "Buzayan MM, Yunus NB",
+    "journal": "Journal of Indian Prosthodontic Society",
+    "year": 2014,
+    "doi": "10.1007/s13191-013-0343-x",
+    "abstract": "Revisa el concepto de ajuste pasivo en prótesis implantosoportadas atornilladas y los métodos para lograrlo. El ajuste pasivo es esencial para la longevidad de los implantes y su ausencia genera estrés patológico en el hueso periimplantario.",
+    "tags": [
+      "pasividad"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 67,
+    "title": "Marginal and internal fit of CAD/CAM frameworks in multiple implant-supported restorations: Scanning and milling error analysis",
+    "authors": "Uribarri A, Bilbao-Uriarte E, Segurola A, Ugarte D, Verdugo F",
+    "journal": "Clinical Implant Dentistry and Related Research",
+    "year": 2019,
+    "doi": "10.1111/cid.12839",
+    "abstract": "Evalúa el ajuste marginal e interno de armazones CAD/CAM en restauraciones implantosoportadas múltiples analizando los errores de escaneado y fresado. Los errores en el plano horizontal del escaneado son mayores que los verticales y contribuyen a la formación de microgaps.",
+    "tags": [
+      "pasividad",
+      "cadcam"
+    ],
+    "category": "materiales"
+  },
+  {
+    "id": 68,
+    "title": "Improving the fit of implant prosthetics: an in vitro study",
+    "authors": "Yannikakis S, Prombonas A",
+    "journal": "International Journal of Oral & Maxillofacial Implants",
+    "year": 2013,
+    "doi": "10.11607/jomi.2346",
+    "abstract": "Evaluó in vitro el desarrollo de tensiones en cinco métodos de fabricación de estructuras implantosoportadas incluyendo aleaciones de cromo-cobalto y oro-platino. La cementación directa sobre cilindros prefabricados demostró reducir significativamente el desarrollo de tensiones comparado con técnicas de colado convencional.",
+    "tags": [
+      "pasividad",
+      "cadcam"
+    ],
+    "category": "materiales"
+  },
+  {
+    "id": 69,
+    "title": "Accuracy of fit for cobalt-chromium bar over two implants fabricated with different manufacturing techniques: an in-vitro study",
+    "authors": "Nassar HI, Fateen A",
+    "journal": "BMC Oral Health",
+    "year": 2023,
+    "doi": "10.1186/s12903-023-03700-w",
+    "abstract": "Compara in vitro la precisión del ajuste de barras de cobalto-cromo sobre dos implantes fabricadas por fresado CAD/CAM vs. colado convencional. Las barras fresadas CAD/CAM demostraron mayor precisión de ajuste y menor desajuste marginal.",
+    "tags": [
+      "pasividad",
+      "cadcam"
+    ],
+    "category": "materiales"
+  },
+  {
+    "id": 70,
+    "title": "Analysis of fit on implants of chrome cobalt versus titanium frameworks made by cad/cam milling",
+    "authors": "Oteiza-Galdón B, Martínez-González A, Escuder ÁV",
+    "journal": "Journal of Clinical and Experimental Dentistry",
+    "year": 2020,
+    "doi": "10.4317/jced.57817",
+    "abstract": "Analiza la precisión de ajuste de armazones de cobalto-cromo versus titanio fabricados por fresado CAD/CAM sobre implantes. Ambos materiales mostraron precisión dimensional similar en prótesis parciales fijas de 3 unidades implantosoportadas.",
+    "tags": [
+      "pasividad",
+      "cadcam",
+      "materiales"
+    ],
+    "category": "materiales"
+  },
+  {
+    "id": 71,
+    "title": "Passive fit and time efficiency for prefabricated versus conventionally constructed cobalt chromium CAD/CAM 3-unit implant supported frameworks in free end saddle models: a pilot in vitro study",
+    "authors": "Kamel ME, Alsayed AAE, ElKhashab MA, Nader N, Radi IA",
+    "journal": "BMC Oral Health",
+    "year": 2024,
+    "doi": "10.1186/s12903-024-04950-y",
+    "abstract": "Compara el ajuste pasivo y la eficiencia temporal de armazones de cobalto-cromo prefabricados versus construidos convencionalmente mediante CAD/CAM. No hubo diferencias estadísticamente significativas en ajuste pasivo entre ambos grupos (p=1, OR=0.5).",
+    "tags": [
+      "pasividad",
+      "cadcam"
+    ],
+    "category": "materiales"
+  },
+  {
+    "id": 72,
+    "title": "Evaluación del efecto de las condiciones de diseño y técnica quirúrgica sobre la interfaz hueso-implante y la subestructura de prótesis híbridas implantosoportadas",
+    "authors": "Investigadores GRAM — Universidad Santo Tomás",
+    "journal": "Tesis Doctoral — Universidad Santo Tomás",
+    "year": 2025,
+    "doi": "USTA-DOC",
+    "abstract": "Tesis doctoral que generó y validó un protocolo clínico basado en análisis in silico e in vitro para selección de geometría y material de subestructuras en prótesis híbridas implantosoportadas. Evaluó 3 geometrías (PR, PI, PC) × 3 materiales (CC, Ti, Zr) en 4 pacientes edéntulos con implantes rectos y angulados.",
+    "tags": [
+      "protocolo",
+      "fea",
+      "biomecanica"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 73,
+    "title": "Prosthetic failures in dental implant therapy",
+    "authors": "Sailer I, Karasan D, Todorovic A, Ligoutsikou M, Pjetursson BE",
+    "journal": "Periodontology 2000",
+    "year": 2022,
+    "doi": "10.1111/prd.12416",
+    "abstract": "Revisión exhaustiva sobre fallos protésicos en implantología dental, clasificación de complicaciones y factores de riesgo.",
+    "tags": [
+      "protocolo",
+      "clinico"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 74,
+    "title": "Evidence-based guidelines for the care and maintenance of complete dentures: a publication of the American College of Prosthodontists",
+    "authors": "Felton D, Cooper L, Duqum I, Minsley G, Guckes A, Haug S, Meredith P, Solie C, Avery D, Chandler ND",
+    "journal": "Journal of Prosthodontics",
+    "year": 2011,
+    "doi": "10.1111/j.1532-849X.2010.00683.x",
+    "abstract": "Guías basadas en evidencia para el cuidado y mantenimiento de dentaduras completas incluyendo prótesis implantosoportadas.",
+    "tags": [
+      "protocolo",
+      "clinico"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 75,
+    "title": "The Effect of Different Tightening Torques of Implant Cone Morse Abutment Connection Under Dynamic Fatigue Loading",
+    "authors": "Lorusso F, Scarano A et al.",
+    "journal": "Biomimetics",
+    "year": 2025,
+    "doi": "10.3390/biomimetics10080511",
+    "abstract": "Evaluó el efecto de diferentes torques de apriete en la conexión de pilar cónico morse bajo carga de fatiga dinámica.",
+    "tags": [
+      "protocolo",
+      "materiales"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 76,
+    "title": "Edentulismo y necesidad de tratamiento protésico en adultos de ámbito urbano marginal",
+    "authors": "Gutierrez Vargas VL, León Manco RA, Castillo Andamayo DE",
+    "journal": "Revista Estomatológica Herediana",
+    "year": 2015,
+    "doi": "10.20453/reh.v25i3.2608",
+    "abstract": "Evaluó la prevalencia de edentulismo y la necesidad de tratamiento protésico en adultos de zonas urbanas marginales.",
+    "tags": [
+      "epidemiologia",
+      "clinico"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 77,
+    "title": "IV Estudio Nacional De Salud Bucal — ENSAB IV",
+    "authors": "Ministerio de Salud y Protección Social MINSALUD",
+    "journal": "MINSALUD Colombia",
+    "year": 2014,
+    "doi": "MINSALUD-2014",
+    "abstract": "Cuarto estudio nacional de salud bucal de Colombia que estableció la prevalencia de edentulismo y necesidades protésicas en la población colombiana.",
+    "tags": [
+      "epidemiologia"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 78,
+    "title": "Supervivencia y complicaciones de prótesis híbridas realizadas en la clínica dental docente UPCH",
+    "authors": "Araujo Guevara KG, Villalba Villalba KM, Díaz Sarabia EA",
+    "journal": "Revista Estomatológica Herediana",
+    "year": 2022,
+    "doi": "10.20453/reh.v32i3.4280",
+    "abstract": "Estudio de supervivencia y complicaciones de prótesis híbridas realizadas en la clínica dental docente de la Universidad Peruana Cayetano Heredia entre 2013 y 2016.",
+    "tags": [
+      "clinico",
+      "epidemiologia"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 79,
+    "title": "El tratamiento con implantes en pacientes edéntulos totales mandibulares mediante rehabilitación fija",
+    "authors": "Velasco Ortega E et al.",
+    "journal": "Avances en Periodoncia e Implantología Oral",
+    "year": 2007,
+    "doi": "10.4321/s1699-65852007000400004",
+    "abstract": "Revisión del tratamiento con implantes en pacientes edéntulos totales mandibulares mediante rehabilitación fija.",
+    "tags": [
+      "epidemiologia",
+      "clinico"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 80,
+    "title": "Choosing Between Fixed and Removable Prosthetic Modalities for Completely Edentulous Patients: A Systematic Review of Evidence-Based Outcomes",
+    "authors": "Hassan MAA, Abdelmonem S, Alkhateeb A, Abdelkarim H, Shalaby M, Barakat A",
+    "journal": "Cureus",
+    "year": 2026,
+    "doi": "10.7759/cureus.101213",
+    "abstract": "Revisión sistemática que compara prótesis fijas y removibles en pacientes totalmente edéntulos. Las prótesis implantosoportadas fijas ofrecen mejores resultados clínicos y reportados por el paciente que las dentaduras convencionales en términos de satisfacción, masticación y calidad de vida.",
+    "tags": [
+      "clinico",
+      "sistematica"
+    ],
+    "category": "sistematica"
+  },
+  {
+    "id": 81,
+    "title": "Estudios In Silico, simulando vida en un entorno virtual",
+    "authors": "Fuentes Condori R, Vargas Aguilar AA",
+    "journal": "Gaceta Médica Boliviana",
+    "year": 2021,
+    "doi": "10.47993/gmb.v44i2.263",
+    "abstract": "Artículo de revisión sobre los estudios in silico y su aplicación en investigación médica y odontológica.",
+    "tags": [
+      "biomecanica",
+      "fea"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 82,
+    "title": "Métodos alternativos in vitro e in silico: métodos auxiliares y sustitutivos a la experimentación animal",
+    "authors": "Costa Victal J et al.",
+    "journal": "Revista Intertox de Toxicología, Risco Ambiental e Sociedade",
+    "year": 2015,
+    "doi": "10.22280/revintervol7ed2.172",
+    "abstract": "Revisión de métodos alternativos in vitro e in silico como métodos auxiliares y sustitutivos a la experimentación animal en investigación biomédica.",
+    "tags": [
+      "biomecanica"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 83,
+    "title": "El diseño, la manufactura y análisis asistido por computadora (CAD/CAM/CAE) en el desarrollo de productos en América Latina",
+    "authors": "Erazo-Arteaga VA",
+    "journal": "Información Tecnológica",
+    "year": 2022,
+    "doi": "10.4067/s0718-07642022000200297",
+    "abstract": "Revisión sobre el diseño, manufactura y análisis asistido por computadora en el contexto del desarrollo de productos en América Latina.",
+    "tags": [
+      "biomecanica",
+      "cadcam"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 84,
+    "title": "The Content Validity of an Instrument That Measures Health-Seeking Behavior for Tuberculosis",
+    "authors": "Jacob AM, Jacob J, Peersman W, Shetty AK",
+    "journal": "Tropical Medicine and Infectious Disease",
+    "year": 2024,
+    "doi": "10.3390/tropicalmed9080181",
+    "abstract": "Artículo metodológico sobre validez de contenido de instrumentos de medición, relevante para la metodología de validación por expertos del protocolo OSTA.",
+    "tags": [
+      "protocolo"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 85,
+    "title": "A classification of the edentulous jaws",
+    "authors": "Cawood JI, Howell RA",
+    "journal": "International Journal of Oral and Maxillofacial Surgery",
+    "year": 1988,
+    "doi": "10.1016/S0901-5027(88)80047-X",
+    "abstract": "Clasificación fundamental de los maxilares edéntulos que sirve como referencia para la clasificación de pérdida ósea en planeación de implantes.",
+    "tags": [
+      "epidemiologia",
+      "hueso"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 86,
+    "title": "The glossary of prosthodontic terms",
+    "authors": "Academy of Prosthodontics",
+    "journal": "Journal of Prosthetic Dentistry",
+    "year": 2005,
+    "doi": "10.1016/j.prosdent.2005.03.013",
+    "abstract": "Glosario de términos prostodónticos de referencia estándar en la especialidad.",
+    "tags": [
+      "protocolo"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 87,
+    "title": "Clinical complications with implants and implant prostheses",
+    "authors": "Goodacre CJ, Bernal G, Rungcharassaeng K, Kan JY",
+    "journal": "Journal of Prosthetic Dentistry",
+    "year": 2003,
+    "doi": "10.1016/S0022-3913(03)00212-9",
+    "abstract": "Revisión exhaustiva de complicaciones clínicas con implantes y prótesis implantosoportadas basada en 1170 artículos publicados entre 1981 y 2001. Establece tasas de complicaciones biológicas y mecánicas de referencia para implantología moderna.",
+    "tags": [
+      "clinico"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 88,
+    "title": "Bruxism and Dental Implants: A Meta-Analysis",
+    "authors": "Chrcanovic BR, Albrektsson T, Wennerberg A",
+    "journal": "Implant Dentistry",
+    "year": 2015,
+    "doi": "10.1097/ID.0000000000000298",
+    "abstract": "Metaanálisis sobre el impacto del bruxismo en las complicaciones de implantes dentales. Los pacientes bruxistas presentaron mayor riesgo de falla de implantes y complicaciones protésicas comparado con no bruxistas.",
+    "tags": [
+      "bruxismo",
+      "clinico"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 89,
+    "title": "CAD/CAM Versus Conventional Technique for Fabrication of Implant-Supported Prostheses: A Systematic Review",
+    "authors": "Mello CC, Lemos CAA, Júnior JFL, Dos Santos DM, Goiato MC, Pellizzer EP",
+    "journal": "International Journal of Prosthodontics",
+    "year": 2019,
+    "doi": "10.11607/ijp.5616",
+    "abstract": "Revisión sistemática comparando técnicas CAD/CAM versus convencionales para fabricación de armazones implantosoportadas. Las técnicas digitales mostraron resultados similares o superiores en precisión de ajuste comparado con métodos convencionales.",
+    "tags": [
+      "cadcam",
+      "materiales"
+    ],
+    "category": "materiales"
+  },
+  {
+    "id": 90,
+    "title": "Photogrammetry Versus Intraoral Scanning for Complete-Arch Implant Impression: A Randomized Crossover In Vitro Study",
+    "authors": "Pozzi A, Arcuri L, Laino L, Nardi A, Mura P, De Angelis N",
+    "journal": "Clinical Implant Dentistry and Related Research",
+    "year": 2025,
+    "doi": "10.1111/cid.70059",
+    "abstract": "Estudio in vitro cruzado aleatorizado comparando fotogrametría versus escaneado intraoral para impresiones digitales de arco completo sobre implantes. La fotogrametría demostró mayor precisión para casos de múltiples implantes en arco completo.",
+    "tags": [
+      "cadcam",
+      "clinico"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 91,
+    "title": "Immediate versus early or conventional loading dental implants with fixed prostheses: a systematic review and meta-analysis",
+    "authors": "Chen J, Cai M, Yang J, Aldhohrah T, Wang Y",
+    "journal": "Journal of Prosthetic Dentistry",
+    "year": 2019,
+    "doi": "10.1016/j.prosdent.2019.05.013",
+    "abstract": "Revisión sistemática y metaanálisis comparando carga inmediata versus temprana o convencional de implantes con prótesis fijas. No hubo diferencias significativas en tasas de supervivencia entre protocolos de carga cuando se siguieron indicaciones apropiadas.",
+    "tags": [
+      "clinico",
+      "allon4"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 92,
+    "title": "Clinical outcomes of peri-implantitis treatment and supportive periodontal care: a 5-year study",
+    "authors": "Roccuzzo M, Layton DM, Roccuzzo A, Heitz-Mayfield LJ",
+    "journal": "Clinical Oral Implants Research",
+    "year": 2018,
+    "doi": "10.1111/clr.13287",
+    "abstract": "Estudio de 5 años sobre resultados clínicos del tratamiento de periimplantitis y cuidado periodontal de soporte. Los pacientes con terapia de mantenimiento regular mostraron menor progresión de la periimplantitis.",
+    "tags": [
+      "hueso",
+      "clinico"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 93,
+    "title": "Influence of Soft Tissue Thickness on Peri-Implant Marginal Bone Loss: A Systematic Review and Meta-Analysis",
+    "authors": "Suárez-López Del Amo F, Lin GH, Monje A, Galindo-Moreno P, Wang HL",
+    "journal": "Journal of Periodontology",
+    "year": 2016,
+    "doi": "10.1902/jop.2016.150571",
+    "abstract": "Revisión sistemática y metaanálisis sobre la influencia del grosor de tejido blando en la pérdida ósea marginal periimplantaria. Los implantes con tejidos blandos más gruesos presentaron menor pérdida ósea marginal.",
+    "tags": [
+      "hueso",
+      "sistematica"
+    ],
+    "category": "sistematica"
+  },
+  {
+    "id": 94,
+    "title": "Advances in zirconia-based dental materials for implant prosthetics: a review",
+    "authors": "Huang B, Chen M, Liu C, Liu H",
+    "journal": "Journal of Dentistry",
+    "year": 2024,
+    "doi": "10.1016/j.jdent.2024.105111",
+    "abstract": "Revisión de avances en materiales dentales a base de zirconia para prótesis sobre implantes. Analiza propiedades mecánicas, comportamiento clínico y nuevas formulaciones de zirconia para aplicaciones implantológicas.",
+    "tags": [
+      "materiales",
+      "clinico"
+    ],
+    "category": "materiales"
+  },
+  {
+    "id": 95,
+    "title": "Osseointegration of titanium, titanium alloy and zirconia dental implants: current knowledge and open questions",
+    "authors": "Bosshardt DD, Chappuis V, Buser D",
+    "journal": "Periodontology 2000",
+    "year": 2017,
+    "doi": "10.1111/prd.12179",
+    "abstract": "Revisión del estado actual del conocimiento sobre la oseointegración de implantes de titanio, aleación de titanio y zirconia. Aborda los mecanismos biológicos y los factores que influyen en la oseointegración de diferentes materiales.",
+    "tags": [
+      "materiales",
+      "clinico"
+    ],
+    "category": "materiales"
+  },
+  {
+    "id": 96,
+    "title": "Bonding of veneering ceramic to cobalt-chromium implant frameworks fabricated by selective laser melting versus casting",
+    "authors": "Revilla-León M, Özcan M",
+    "journal": "Journal of Prosthetic Dentistry",
+    "year": 2022,
+    "doi": "10.1016/j.prosdent.2021.01.001",
+    "abstract": "Comparación de la adhesión de porcelana de recubrimiento a armazones de cobalto-cromo fabricados por SLM versus colado. Los armazones fabricados por SLM mostraron resistencia adhesiva comparable a los colados convencionales.",
+    "tags": [
+      "materiales"
+    ],
+    "category": "materiales"
+  },
+  {
+    "id": 97,
+    "title": "Biomechanical determinants of the stability of dental implants: influence of the bone-implant interface properties",
+    "authors": "Mathieu V, Vayron R, Richard G, Lambert G, Naili S, Meningaud JP, Haïat G",
+    "journal": "Journal of Biomechanics",
+    "year": 2014,
+    "doi": "10.1016/j.jbiomech.2013.09.021",
+    "abstract": "Analiza los determinantes biomecánicos de la estabilidad de implantes dentales, con énfasis en las propiedades de la interfaz hueso-implante. Los parámetros morfológicos y mecánicos del hueso periimplantario son factores determinantes de la estabilidad primaria.",
+    "tags": [
+      "hueso",
+      "biomecanica"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 98,
+    "title": "Long-Term Comprehensive Results of Four-Implant-Supported Overdentures and Fixed Complete Dentures",
+    "authors": "Lan R, Tang L, Cai H",
+    "journal": "International Journal of Oral and Maxillofacial Implants",
+    "year": 2025,
+    "doi": "10.11607/jomi.11175",
+    "abstract": "Resultados a largo plazo de sobredentaduras y prótesis completas fijas sobre cuatro implantes. Compara tasas de supervivencia, satisfacción del paciente y pérdida ósea marginal entre ambos tipos protésicos.",
+    "tags": [
+      "clinico"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 99,
+    "title": "Oral health-related quality of life in patients rehabilitated with all-on-four concept: a systematic review",
+    "authors": "Gonçalves GS, Pinheiro Dias Engroff S, Gomes JM, Melo RF, Pellizzer EP",
+    "journal": "Clinical Oral Investigations",
+    "year": 2022,
+    "doi": "10.1007/s00784-021-04213-y",
+    "abstract": "Revisión sistemática sobre calidad de vida relacionada con salud oral en pacientes rehabilitados con concepto All-on-Four. La mayoría de los estudios reportaron mejoras significativas en calidad de vida y satisfacción del paciente tras la rehabilitación.",
+    "tags": [
+      "clinico",
+      "sistematica"
+    ],
+    "category": "sistematica"
+  },
+  {
+    "id": 100,
+    "title": "Screw loosening in angulation-correcting abutments for single implant restorations",
+    "authors": "Pitman J, Reich S",
+    "journal": "Journal of Prosthetic Dentistry",
+    "year": 2024,
+    "doi": "10.1016/j.prosdent.2022.08.003",
+    "abstract": "Análisis del aflojamiento de tornillos en pilares de corrección de angulación para restauraciones individuales sobre implantes. Evalúa factores protésicos que predisponen al aflojamiento y estrategias de prevención.",
+    "tags": [
+      "clinico",
+      "sistematica"
+    ],
+    "category": "sistematica"
+  },
+  {
+    "id": 101,
+    "title": "Effect of Framework in Implant-Supported Full-Arch Fixed Prosthesis on Stress Distribution: A 3D Finite Element Analysis",
+    "authors": "Menini M, Pesce P, Bevilacqua M, Pera F, Tealdo T, Ravera G, Pera P",
+    "journal": "International Journal of Prosthodontics",
+    "year": 2015,
+    "doi": "10.11607/ijp.4345",
+    "abstract": "Análisis de elementos finitos 3D del efecto del material del armazón en la distribución de esfuerzos en prótesis fija de arco completo implantosoportada. Los armazones de titanio mostraron distribución de esfuerzos más favorable comparado con otros materiales.",
+    "tags": [
+      "biomecanica",
+      "cantilever"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 102,
+    "title": "Consideration of Various Bone Quality Evaluation Methods",
+    "authors": "Jeong KI, Kim SG, Oh JS, You JS",
+    "journal": "Implant Dentistry",
+    "year": 2013,
+    "doi": "10.1097/ID.0b013e31827778d9",
+    "abstract": "Revisión de diferentes métodos de evaluación de la calidad ósea en implantología. Analiza métodos clínicos, radiológicos e histológicos y su correlación con el éxito de los implantes.",
+    "tags": [
+      "hueso",
+      "clinico"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 103,
+    "title": "Microstructure and mechanical properties of Co-Cr alloy fixed partial denture frameworks fabricated by selective laser melting",
+    "authors": "Lee WF, Wang JC, Chen LR, Kung CM, Cheng HY, Hsu CC",
+    "journal": "Journal of Prosthetic Dentistry",
+    "year": 2022,
+    "doi": "10.1016/j.prosdent.2020.06.038",
+    "abstract": "Caracterización de la microestructura y propiedades mecánicas de armazones de prótesis parcial fija de Co-Cr fabricadas por fusión selectiva por láser. Las estructuras fabricadas por SLM mostraron propiedades mecánicas adecuadas para aplicaciones clínicas.",
+    "tags": [
+      "materiales",
+      "cadcam"
+    ],
+    "category": "materiales"
+  },
+  {
+    "id": 104,
+    "title": "Implant placement and loading protocols in partially and completely edentulous jaws: a systematic review with meta-analyses",
+    "authors": "Gallucci GO, Hamilton A, Zhou W, Buser D, Chen S",
+    "journal": "Clinical Oral Implants Research",
+    "year": 2018,
+    "doi": "10.1111/clr.13276",
+    "abstract": "Revisión sistemática con metaanálisis sobre protocolos de colocación y carga de implantes en maxilares parcial y completamente edéntulos. Evalúa resultados de diferentes protocolos de carga en términos de supervivencia y pérdida ósea marginal.",
+    "tags": [
+      "clinico",
+      "allon4",
+      "sistematica"
+    ],
+    "category": "sistematica"
+  },
+  {
+    "id": 105,
+    "title": "Biomechanical Evaluation of Different Implant Inclinations and Cantilever Lengths in All-on-4 Concept by Finite Element Analysis",
+    "authors": "Ozan O, Kurtulmus-Yilmaz S",
+    "journal": "International Journal of Oral and Maxillofacial Implants",
+    "year": 2018,
+    "doi": "10.11607/jomi.6201",
+    "abstract": "Evaluación biomecánica mediante FEA de diferentes inclinaciones de implantes y longitudes de cantilever en el concepto All-on-4. Las inclinaciones mayores de implantes posteriores con cantilevers cortos mostraron distribución de esfuerzos más favorable.",
+    "tags": [
+      "cantilever",
+      "fea",
+      "allon4"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 106,
+    "title": "Predictive mathematical modeling of the biomechanical behavior of the all-on-four concept",
+    "authors": "Murat F, Şensoy AT, Sevinç Gül SN",
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "year": 2025,
+    "doi": "10.3389/fbioe.2025.1644776",
+    "abstract": "Modelo matemático predictivo del comportamiento biomecánico del concepto All-on-Four. Desarrolla ecuaciones para predecir distribución de esfuerzos en función de variables geométricas y de carga en rehabilitaciones All-on-4.",
+    "tags": [
+      "fea",
+      "allon4"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 107,
+    "title": "Implants Placed with the All-On-4 Technique: A Radiographic Retrospective Study",
+    "authors": "Tironi F, Perrotti V, Piattelli A, Cataldi A, Quaresima R",
+    "journal": "International Journal of Periodontics and Restorative Dentistry",
+    "year": 2023,
+    "doi": "10.11607/prd.6013",
+    "abstract": "Estudio radiográfico retrospectivo de implantes colocados con la técnica All-on-4. Evalúa la pérdida ósea marginal periimplantaria a lo largo del tiempo en pacientes rehabilitados con el protocolo All-on-4.",
+    "tags": [
+      "allon4",
+      "clinico"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 108,
+    "title": "Systematic review of survival and complication rates of implant-supported fixed dental prostheses after an observation period of at least 5 years",
+    "authors": "Pjetursson BE, Asgeirsson AG, Zwahlen M, Sailer I",
+    "journal": "Clinical Oral Implants Research",
+    "year": 2012,
+    "doi": "10.1111/j.1600-0501.2012.02546.x",
+    "abstract": "Revisión sistemática de las tasas de supervivencia y complicaciones de prótesis dentales fijas implantosoportadas con período de observación de al menos 5 años. Proporciona datos fundamentales sobre la longevidad y complicaciones esperadas en prótesis implantosoportadas.",
+    "tags": [
+      "clinico",
+      "sistematica"
+    ],
+    "category": "sistematica"
+  },
+  {
+    "id": 109,
+    "title": "Clinical success of zirconia-based tooth and implant supported fixed dental prostheses: a systematic review",
+    "authors": "Le M, Papia E, Larsson C",
+    "journal": "Journal of Oral Rehabilitation",
+    "year": 2015,
+    "doi": "10.1111/joor.12272",
+    "abstract": "Revisión sistemática del éxito clínico de prótesis dentales fijas a base de zirconia soportadas por dientes e implantes. La zirconia mostró resultados clínicos prometedores con tasas de supervivencia comparables a materiales convencionales.",
+    "tags": [
+      "materiales",
+      "sistematica"
+    ],
+    "category": "sistematica"
+  },
+  {
+    "id": 110,
+    "title": "Static and Fatigue Mechanical Performance of Different Abutment Materials",
+    "authors": "Bruno L, Riccitiello F, Caggiano M, Milly M, Spagnuolo G, D'Antò V",
+    "journal": "Materials",
+    "year": 2023,
+    "doi": "10.3390/ma16103713",
+    "abstract": "Análisis del comportamiento mecánico estático y a la fatiga de diferentes materiales de pilares para implantes. Compara pilares de titanio, zirconia y PEEK bajo cargas estáticas y cíclicas para evaluar su resistencia mecánica.",
+    "tags": [
+      "materiales"
+    ],
+    "category": "materiales"
+  },
+  {
+    "id": 111,
+    "title": "Influence of arch shape and implant position on stress distribution in the All-on-4 concept",
+    "authors": "Sagat G, Yalcin S, Gultekin BA, Mijiritsky E",
+    "journal": "Implant Dentistry",
+    "year": 2010,
+    "doi": "10.1097/ID.0b013e3181fa4267",
+    "abstract": "Análisis mediante FEA de la influencia de la forma del arco y la posición de los implantes en la distribución de esfuerzos en el concepto All-on-4. La forma del arco y el posicionamiento implantario afectan significativamente la distribución de cargas.",
+    "tags": [
+      "fea",
+      "cantilever",
+      "allon4",
+      "materiales"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 112,
+    "title": "Systematic review of digital removable partial dentures: CAD/CAM framework fabrication",
+    "authors": "Takaichi A, Iijima M, Oki H, Yuasa T, Yasuno K, Kimura Y, Aoki Y, Baba K, Sato Y, Ohkubo C",
+    "journal": "Journal of Prosthodontic Research",
+    "year": 2022,
+    "doi": "10.2186/jpr.JPR_D_20_00117",
+    "abstract": "Revisión sistemática sobre prótesis parciales removibles digitales y fabricación de armazones mediante CAD/CAM. Analiza la evidencia disponible sobre precisión de ajuste, resultados clínicos y eficiencia del flujo de trabajo digital.",
+    "tags": [
+      "cadcam",
+      "materiales"
+    ],
+    "category": "materiales"
+  },
+  {
+    "id": 113,
+    "title": "Influence of Connector Design on Displacement and Micromotion in Tooth-Implant Fixed Partial Dentures Using Different Lengths and Diameters: A Three-Dimensional Finite Element Study",
+    "authors": "Mously HA, Naguib GH, Hashem ABH, Abougazia AO, Binmahfooz AM, Hamed MT",
+    "journal": "Materials",
+    "year": 2024,
+    "doi": "10.3390/ma17174416",
+    "abstract": "Estudio de elementos finitos 3D sobre la influencia del diseño del conector en el desplazamiento y micromovimiento en prótesis parciales fijas diente-implante con diferentes longitudes y diámetros. Analiza cómo la geometría del conector influye en la distribución de cargas y la estabilidad de la prótesis.",
+    "tags": [
+      "fea",
+      "geometria"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 114,
+    "title": "A Review of the Impact of Implant Biomaterials on Osteocytes",
+    "authors": "Shah FA, Thomsen P, Palmquist A",
+    "journal": "Journal of Dental Research",
+    "year": 2018,
+    "doi": "10.1177/0022034518778033",
+    "abstract": "Revisión del impacto de los biomateriales de implantes en los osteocitos. Analiza cómo los materiales de la superficie del implante (titanio, zirconia, superficies modificadas) afectan la respuesta de los osteocitos y la remodelación ósea periimplantaria.",
+    "tags": [
+      "hueso",
+      "biomecanica"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 115,
+    "title": "Peri-Implant Bone Loss and Overload: A Systematic Review",
+    "authors": "Di Fiore A, Meneghello R, Savio G, Vigolo P, Stellini E, Graiff L",
+    "journal": "Journal of Clinical Medicine",
+    "year": 2022,
+    "doi": "10.3390/jcm11164812",
+    "abstract": "Revisión sistemática sobre la relación entre pérdida ósea periimplantaria y sobrecarga oclusal. Analiza evidencia sobre el papel de la biomecánica en la pérdida ósea y las estrategias para minimizar la sobrecarga en implantes.",
+    "tags": [
+      "hueso",
+      "cantilever",
+      "sistematica"
+    ],
+    "category": "sistematica"
+  },
+  {
+    "id": 116,
+    "title": "Digital scanning for complete-arch implant-supported restorations: a systematic review",
+    "authors": "Wulfman C, Naveau A, Rignon-Bret C",
+    "journal": "Journal of Prosthetic Dentistry",
+    "year": 2020,
+    "doi": "10.1016/j.prosdent.2019.06.014",
+    "abstract": "Revisión sistemática sobre el uso del escaneado digital para restauraciones de arco completo implantosoportadas. Evalúa la precisión, flujo de trabajo y resultados clínicos del escaneado intraoral en comparación con técnicas convencionales.",
+    "tags": [
+      "cadcam",
+      "pasividad",
+      "sistematica"
+    ],
+    "category": "sistematica"
+  },
+  {
+    "id": 117,
+    "title": "Coating Materials to Prevent Screw Loosening in Single Dental Implant Crowns: A Systematic Review",
+    "authors": "Coelho L, Manzanares-Céspedes MC, Mendes J, Tallón-Walton V, Astudillo-Rozas W, Aroso C, Mendes JM",
+    "journal": "Materials",
+    "year": 2024,
+    "doi": "10.3390/ma17205053",
+    "abstract": "Revisión sistemática sobre materiales de recubrimiento para prevenir el aflojamiento de tornillos en coronas de implante dentales individuales. Analiza diferentes tipos de recubrimientos y su eficacia para mantener el torque de retención y prevenir complicaciones mecánicas.",
+    "tags": [
+      "protocolo",
+      "clinico"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 118,
+    "title": "Failure Load and Fatigue Behavior of Monolithic Translucent Zirconia, PICN and Rapid-Layer Posterior Single Crowns on Zirconia Implants",
+    "authors": "Spitznagel FA, Röhrig S, Langner R, Gierthmuehlen PC",
+    "journal": "Materials",
+    "year": 2021,
+    "doi": "10.3390/ma14081990",
+    "abstract": "Evaluación de la carga de fractura y comportamiento a la fatiga de coronas posteriores monolíticas de zirconia translúcida, PICN y Rapid-Layer sobre implantes de zirconia. Compara la resistencia mecánica y el comportamiento cíclico de diferentes materiales de restauración implantosoportada.",
+    "tags": [
+      "materiales",
+      "biomecanica",
+      "fea"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 119,
+    "title": "Biomechanical Analysis of Prosthetic Designs Retained by Two or Four Implants in the Edentulous Mandible: A 3D Finite Element Analysis",
+    "authors": "Tuzlali M, Aygun EBG, Kocacikli M, Gumus HS",
+    "journal": "Nigerian Journal of Clinical Practice",
+    "year": 2025,
+    "doi": "10.4103/njcp.njcp_918_24",
+    "abstract": "Análisis biomecánico mediante FEA 3D de diseños protésicos retenidos por dos o cuatro implantes en la mandíbula edéntula. Compara la distribución de esfuerzos en hueso y componentes protésicos según el número de implantes de soporte.",
+    "tags": [
+      "fea",
+      "biomecanica",
+      "cadcam"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 120,
+    "title": "In Vitro Accuracy of Digital Versus Conventional Workflows for Complete-Arch Implant-Supported Frameworks: A Scoping Review",
+    "authors": "Prott LS, Graham L, Gierthmuehlen PC, Blatz MB",
+    "journal": "International Journal of Prosthodontics",
+    "year": 2025,
+    "doi": "10.11607/ijp.9147",
+    "abstract": "Revisión de alcance sobre la precisión in vitro de flujos de trabajo digitales versus convencionales para armazones implantosoportadas de arco completo. Analiza la evidencia disponible sobre precisión de ajuste, desviación y resultados clínicos comparando metodologías digitales y analógicas.",
+    "tags": [
+      "materiales",
+      "clinico",
+      "sistematica"
+    ],
+    "category": "sistematica"
+  },
+  {
+    "id": 121,
+    "title": "Rehabilitation of full-arch edentulism with fixed or removable dentures retained by root-form dental implants: A systematic review of outcomes",
+    "authors": "Messias A, Karasan D, Nicolau P, Pjetursson BE, Guerra F",
+    "journal": "Journal of Clinical Periodontology",
+    "year": 2023,
+    "doi": "10.1111/jcpe.13616",
+    "abstract": "Revisión sistemática de resultados de la rehabilitación del edentulismo de arco completo con prótesis fijas o removibles retenidas por implantes dentales de forma radicular. Analiza supervivencia de implantes, complicaciones biológicas y mecánicas, y medidas de resultado de los últimos 10 años.",
+    "tags": [
+      "protocolo",
+      "clinico",
+      "allon4"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 122,
+    "title": "Dynamic finite element analysis of stress distribution in edentulous fixed restorations: effects of different implant configurations and framework materials",
+    "authors": "Lan Y, Su B",
+    "journal": "Journal of Stomatology, Oral and Maxillofacial Surgery",
+    "year": 2026,
+    "doi": "10.1016/j.jormas.2025.102647",
+    "abstract": "Análisis dinámico de elementos finitos de la distribución de esfuerzos en restauraciones fijas edéntulas evaluando diferentes configuraciones de implantes y materiales de armazón. Determina cómo la angulación y disposición de implantes influye en el estrés de hueso cortical y trabecular.",
+    "tags": [
+      "allon4",
+      "fea",
+      "biomecanica"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 123,
+    "title": "Maintenance protocols for implant-supported dental prostheses: a scoping review",
+    "authors": "Soares PM, Morais I, Castro-Núñez J, Pinto-Coelho Pinto JC",
+    "journal": "Journal of Prosthetic Dentistry",
+    "year": 2024,
+    "doi": "10.1016/j.prosdent.2022.08.026",
+    "abstract": "Revisión de alcance sobre protocolos de mantenimiento para prótesis dentales implantosoportadas. Analiza frecuencia de controles, procedimientos de higiene profesional y criterios de intervención para el mantenimiento a largo plazo.",
+    "tags": [
+      "protocolo",
+      "clinico"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 124,
+    "title": "Patient-Reported Outcomes of Digital Versus Conventional Impressions for Implant-Supported Restorations",
+    "authors": "Pachiou A, Tatakis DN, Kolokythas A, Diamantopoulos P, Valantis I, Kioufis S",
+    "journal": "Journal of Personalized Medicine",
+    "year": 2025,
+    "doi": "10.3390/jpm15090427",
+    "abstract": "Evaluación de resultados reportados por pacientes comparando impresiones digitales versus convencionales para restauraciones sobre implantes. Los pacientes reportaron mayor comodidad y satisfacción con las impresiones digitales.",
+    "tags": [
+      "clinico",
+      "sistematica"
+    ],
+    "category": "sistematica"
+  },
+  {
+    "id": 125,
+    "title": "Effectiveness of Implant Therapy Analyzed in a Swedish Population: Prevalence of Peri-implantitis",
+    "authors": "Derks J, Schaller D, Håkansson J, Wennström JL, Tomasi C, Berglundh T",
+    "journal": "Journal of Dental Research",
+    "year": 2016,
+    "doi": "10.1177/0022034515608832",
+    "abstract": "Análisis de la efectividad del tratamiento con implantes en una población sueca y prevalencia de periimplantitis. El estudio encontró una prevalencia significativa de periimplantitis, destacando la importancia del seguimiento a largo plazo.",
+    "tags": [
+      "clinico",
+      "hueso"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 126,
+    "title": "Implant-supported fixed prostheses with cantilever: a systematic review and meta-analysis",
+    "authors": "Kondo Y, Ino S, Higuchi T, Koyama S, Suzuki H, Matsuda K",
+    "journal": "International Journal of Implant Dentistry",
+    "year": 2024,
+    "doi": "10.1186/s40729-024-00573-8",
+    "abstract": "Revisión sistemática y metaanálisis sobre prótesis fijas implantosoportadas con extensión en cantilever. Analiza tasas de complicaciones mecánicas y biológicas relacionadas con la longitud del cantilever.",
+    "tags": [
+      "clinico",
+      "sistematica"
+    ],
+    "category": "sistematica"
+  },
+  {
+    "id": 127,
+    "title": "Implant number and distribution for implant-supported fixed complete dentures according to three-dimensional finite element analysis: a scoping review",
+    "authors": "Lafon A, Hoornaert A, Le Loch S, Le Hécho H, Chaux AG",
+    "journal": "British Dental Journal",
+    "year": 2025,
+    "doi": "10.1038/s41415-025-8641-3",
+    "abstract": "Revisión de alcance sobre el número y distribución óptima de implantes para prótesis completas fijas implantosoportadas según estudios de FEA 3D. Analiza cómo el diseño del armazón y la disposición de los implantes afectan la distribución de cargas biomecánicas.",
+    "tags": [
+      "geometria",
+      "biomecanica",
+      "fea"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 128,
+    "title": "A Three-Dimensional Finite Element Analysis of Stress Distribution in Cement-Retained and Screw-Retained Implant-Supported Restorations Using Porcelain-Fused-to-Metal and Zirconia Crowns",
+    "authors": "Thoidindjam B, Kumar S, Aggarwal R, Sharma R, Banjara S, Bindal M, Sra IK",
+    "journal": "Cureus",
+    "year": 2026,
+    "doi": "10.7759/cureus.103745",
+    "abstract": "Análisis FEA 3D de la distribución de esfuerzos Von Mises en restauraciones implantosoportadas cementadas versus atornilladas usando coronas de porcelana sobre metal y zirconia. Compara los patrones de estrés en implante, pilar y hueso circundante según tipo de retención y material.",
+    "tags": [
+      "fea",
+      "biomecanica"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 129,
+    "title": "Occlusion and Biomechanical Risk Factors in Implant-Supported Full-Arch Fixed Dental Prostheses: Narrative Review",
+    "authors": "Berzaghi A, Testori T, Scaini R, Bortolini S",
+    "journal": "Journal of Personalized Medicine",
+    "year": 2025,
+    "doi": "10.3390/jpm15020065",
+    "abstract": "Revisión narrativa sobre los factores de riesgo oclusales y biomecánicos en prótesis dentales fijas de arco completo implantosoportadas. Analiza esquemas oclusales, protocolos de ajuste, extensión de cantilever y su impacto en la longevidad de los implantes y la prótesis.",
+    "tags": [
+      "protocolo",
+      "clinico",
+      "cantilever"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 130,
+    "title": "Current applications of 3D printing in dental implantology: a scoping review",
+    "authors": "Pradíes G, Ferreiroa A, Özcan M, Tejedor J, López-Suárez C",
+    "journal": "Clinical Oral Implants Research",
+    "year": 2024,
+    "doi": "10.1111/clr.14198",
+    "abstract": "Revisión de alcance sobre las aplicaciones actuales de la impresión 3D en implantología dental. Analiza materiales, técnicas de impresión y aplicaciones clínicas incluyendo guías quirúrgicas, modelos y componentes protésicos.",
+    "tags": [
+      "cadcam",
+      "materiales"
+    ],
+    "category": "materiales"
+  },
+  {
+    "id": 131,
+    "title": "Biomechanical Effects of Different Load Cases with an Implant-Supported Full Bridge on Four Implants in an Edentulous Mandible: A 3D Finite Element Analysis",
+    "authors": "Szabó AL, Matusovits D, Slyteen H, Lakatos EI, Baráth Z",
+    "journal": "Dentistry Journal",
+    "year": 2023,
+    "doi": "10.3390/dj11110261",
+    "abstract": "Análisis FEA 3D de los efectos biomecánicos de diferentes casos de carga sobre un puente fijo completo implantosoportado en cuatro implantes en mandíbula edéntula. Evalúa la distribución de esfuerzos en hueso cortical, trabecular e implantes bajo cargas masticatorias variadas.",
+    "tags": [
+      "fea",
+      "hueso",
+      "biomecanica"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 132,
+    "title": "Retrospective 2-7 Year Follow-up Study of 20 Double Full-Arch Implant-Supported Monolithic Zirconia Fixed Prostheses",
+    "authors": "Rojas Vizcaya F",
+    "journal": "Journal of Prosthodontics",
+    "year": 2018,
+    "doi": "10.1111/jopr.12528",
+    "abstract": "Seguimiento retrospectivo de 2 a 7 años de 20 prótesis fijas de arco completo doble de zirconia monolítica implantosoportada. Las prótesis de zirconia monolítica mostraron alta supervivencia y mínimas complicaciones en el período de seguimiento.",
+    "tags": [
+      "clinico"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 133,
+    "title": "Accuracy of implant placement using surgical guides in edentulous patients: a systematic review and meta-analysis",
+    "authors": "Rattan S, Sabu AM, Varghese KG, Kurian N",
+    "journal": "International Journal of Oral and Maxillofacial Surgery",
+    "year": 2026,
+    "doi": "10.1016/j.ijom.2026.03.004",
+    "abstract": "Revisión sistemática y metaanálisis sobre la precisión de la colocación de implantes mediante guías quirúrgicas en pacientes edéntulos. Evalúa las desviaciones de posición y angulación de implantes colocados con cirugía guiada digital versus convencional.",
+    "tags": [
+      "allon4",
+      "cadcam",
+      "clinico"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 134,
+    "title": "Electrochemical Interactions of Titanium and CoCr-Mo Alloy in Different Solutions",
+    "authors": "Ivica A, Jelić-Knezović N, Tarailo-Graovac M, Kranjčić J, Celebić A",
+    "journal": "Materials",
+    "year": 2026,
+    "doi": "10.3390/ma19020367",
+    "abstract": "Estudio de las interacciones electroquímicas entre titanio y aleación CoCr-Mo en diferentes soluciones. Evalúa el comportamiento de corrosión y la galvanización entre materiales metálicos frecuentemente utilizados en combinación en prótesis implantosoportadas.",
+    "tags": [
+      "materiales"
+    ],
+    "category": "materiales"
+  },
+  {
+    "id": 135,
+    "title": "Marginal bone loss and survival rate in splinted and nonsplinted implant-supported restorations: a systematic review",
+    "authors": "Shah AH, Brizuela M, Farooq I, Islam M, Alkhatatbeh M, Alomran MH",
+    "journal": "Journal of Indian Prosthodontic Society",
+    "year": 2022,
+    "doi": "10.4103/jips.jips_365_21",
+    "abstract": "Revisión sistemática sobre pérdida ósea marginal y tasa de supervivencia en restauraciones implantosoportadas ferulizadas versus no ferulizadas. Analiza si la ferulización de implantes ofrece ventajas biomecánicas en términos de distribución de cargas y conservación ósea.",
+    "tags": [
+      "fea",
+      "biomecanica",
+      "bruxismo"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 136,
+    "title": "Four-implant-supported fixed prosthesis versus milled bar-retained overdenture for edentulous mandible",
+    "authors": "ElSyad MA, Alzamil WM, Elkhalek EA, Emera RM",
+    "journal": "International Journal of Oral and Maxillofacial Implants",
+    "year": 2019,
+    "doi": "10.11607/jomi.7667",
+    "abstract": "Comparación de prótesis fija sobre cuatro implantes versus sobredentadura retenida por barra fresada para mandíbula edéntula. Evalúa resultados funcionales, satisfacción del paciente y pérdida ósea marginal entre ambas opciones de tratamiento.",
+    "tags": [
+      "clinico"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 137,
+    "title": "Biomechanical Evaluation of Framework Materials in All-on-Four Versus All-on-Six Prostheses: A Finite Element Study",
+    "authors": "Cabbarova L, Tunçdemir AR, Mohammadi R",
+    "journal": "Clinical and Experimental Dental Research",
+    "year": 2026,
+    "doi": "10.1002/cre2.70277",
+    "abstract": "Evaluación biomecánica mediante FEA de materiales de armazón en prótesis All-on-Four versus All-on-Six. Analiza la distribución de esfuerzos en hueso cortical y trabecular alrededor de los implantes según el número de implantes y el material del armazón protésico.",
+    "tags": [
+      "fea",
+      "hueso",
+      "biomecanica"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 138,
+    "title": "The Prosthetic Influence and Biomechanics on Peri-Implant Strain: a Systematic Literature Review of Finite Element Studies",
+    "authors": "Maminskas J, Puisys A, Kuoppala R, Raustia A, Juodzbalys G",
+    "journal": "Journal of Oral and Maxillofacial Research",
+    "year": 2016,
+    "doi": "10.5037/jomr.2016.7304",
+    "abstract": "Revisión sistemática de la literatura sobre la influencia protésica y biomecánica en la deformación periimplantaria mediante estudios de elementos finitos. Analiza el efecto del desajuste protésico, los materiales del armazón y los diseños oclusales en el estrés óseo periimplantario.",
+    "tags": [
+      "pasividad",
+      "hueso",
+      "clinico"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 139,
+    "title": "Clinical outcomes of zirconia implants supporting multi-unit and complete arch prostheses: A systematic review and meta-analysis",
+    "authors": "Monteiro CGJ, de Oliveira Silva AM, de Almeida DCF, Velloso G, da Silva AMP, Alves Filho WP, Moraschini V",
+    "journal": "Journal of Prosthetic Dentistry",
+    "year": 2025,
+    "doi": "10.1016/j.prosdent.2025.07.020",
+    "abstract": "Revisión sistemática y metaanálisis sobre los resultados clínicos de implantes de zirconia que soportan prótesis multi-unitarias y de arco completo. Evalúa tasas de supervivencia, complicaciones biológicas y mecánicas de implantes de zirconia en comparación con titanio.",
+    "tags": [
+      "clinico",
+      "sistematica"
+    ],
+    "category": "sistematica"
+  },
+  {
+    "id": 140,
+    "title": "Comparison of marginal bone loss and implant success between axial and tilted implants in maxillary All-on-4 treatment concept rehabilitations after 5 years of follow-up",
+    "authors": "Hopp M, de Araújo Nobre M, Maló P",
+    "journal": "Clinical Implant Dentistry and Related Research",
+    "year": 2017,
+    "doi": "10.1111/cid.12526",
+    "abstract": "Comparación de la pérdida ósea marginal y el éxito de implantes axiales versus inclinados en rehabilitaciones maxilares con el concepto All-on-4 tras 5 años de seguimiento. Los implantes inclinados no mostraron mayor pérdida ósea marginal que los axiales a largo plazo.",
+    "tags": [
+      "allon4",
+      "clinico"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 141,
+    "title": "Accuracy of intraoral digital impression versus conventional impression for multiple implants",
+    "authors": "Farhan FA, Al-Naama MA, Farhan WA",
+    "journal": "Journal of Clinical and Experimental Dentistry",
+    "year": 2021,
+    "doi": "10.4317/jced.57926",
+    "abstract": "Comparación de la precisión de impresiones digitales intraorales versus convencionales para múltiples implantes. Las impresiones digitales mostraron precisión clínicamente aceptable y comparables a los métodos convencionales en la mayoría de los casos.",
+    "tags": [
+      "cadcam",
+      "pasividad"
+    ],
+    "category": "materiales"
+  },
+  {
+    "id": 142,
+    "title": "What is the impact of titanium base versus multi-unit abutments on immediate loading outcomes: a systematic review",
+    "authors": "Salehivaziri H, Molaei S, Kazemi S, Shojaei N",
+    "journal": "Saudi Dental Journal",
+    "year": 2026,
+    "doi": "10.1007/s44445-025-00114-y",
+    "abstract": "Revisión sistemática sobre el impacto de los pilares de base de titanio versus pilares multi-unitarios en los resultados de carga inmediata. Compara las tasas de éxito, complicaciones y resultados clínicos entre ambos tipos de pilares en protocolos de carga inmediata.",
+    "tags": [
+      "clinico",
+      "protocolo"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 143,
+    "title": "Biomechanical evaluation of implant materials and connection designs: a structured narrative review of titanium and zirconia",
+    "authors": "Kaiumov A, Wu J, Li S, Wei C",
+    "journal": "Odontology",
+    "year": 2025,
+    "doi": "10.1007/s10266-025-01221-2",
+    "abstract": "Revisión narrativa estructurada sobre la evaluación biomecánica de materiales de implante y diseños de conexión comparando titanio y zirconia. Analiza propiedades mecánicas, comportamiento bajo carga, diseños de conexión implante-pilar y su influencia en la distribución de esfuerzos.",
+    "tags": [
+      "fea",
+      "biomecanica"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 144,
+    "title": "Basis of bone metabolism around dental implants during osseointegration and peri-implant bone loss",
+    "authors": "Insua A, Monje A, Wang HL, Miron RJ",
+    "journal": "Journal of Biomedical Materials Research Part A",
+    "year": 2017,
+    "doi": "10.1002/jbm.a.36060",
+    "abstract": "Revisión sobre las bases del metabolismo óseo alrededor de implantes dentales durante la oseointegración y la pérdida ósea periimplantaria. Analiza los mecanismos biológicos y moleculares que regulan la remodelación ósea periimplantaria.",
+    "tags": [
+      "hueso",
+      "biomecanica"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 145,
+    "title": "In-vitro mechanical performance of three CAD-CAM bar designs for implant-supported metal-resin hybrid prostheses: a preliminary pilot study",
+    "authors": "Arteaga-Losada L, Laura-Fernandez H, Puerta-Dominguez MA, Ascaso-Terren C, Vives E, Escuin-Henar T, Torné-Durán S",
+    "journal": "Journal of Oral Biology and Craniofacial Research",
+    "year": 2026,
+    "doi": "10.1016/j.jobcr.2026.101407",
+    "abstract": "Estudio piloto sobre el rendimiento mecánico in vitro de tres diseños de barra CAD-CAM para prótesis híbridas metal-resina implantosoportadas. Compara la resistencia mecánica y el comportamiento a la carga de diferentes geometrías de barra fabricadas digitalmente.",
+    "tags": [
+      "fea",
+      "geometria",
+      "materiales"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 146,
+    "title": "NobelGuide All-on-4 Treatment Concept for the Rehabilitation of the Completely Edentulous Jaw: 7-year Clinical and 5-year Radiographic Outcomes",
+    "authors": "Lopes A, Maló P, de Araújo Nobre M, Sanchez-Fernandez E, Gravito I",
+    "journal": "Clinical Implant Dentistry and Related Research",
+    "year": 2017,
+    "doi": "10.1111/cid.12456",
+    "abstract": "Resultados clínicos a 7 años y radiográficos a 5 años del concepto de tratamiento NobelGuide All-on-4 para rehabilitación del maxilar completamente edéntulo. Las tasas de supervivencia fueron elevadas con pérdida ósea marginal mínima.",
+    "tags": [
+      "allon4",
+      "clinico"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 147,
+    "title": "All-on-4 Treatment Concept for the Rehabilitation of the Completely Edentulous Mandible: A Longitudinal Study with 10 to 18 Years of Follow-up",
+    "authors": "Maló P, de Araújo Nobre M, Lopes A, Ferro A, Gravito I",
+    "journal": "Clinical Implant Dentistry and Related Research",
+    "year": 2019,
+    "doi": "10.1111/cid.12769",
+    "abstract": "Estudio longitudinal del concepto All-on-4 para rehabilitación de mandíbula completamente edéntula con seguimiento de 10 a 18 años. Los resultados confirman la viabilidad a largo plazo del protocolo All-on-4 con tasas de supervivencia superiores al 90%.",
+    "tags": [
+      "allon4",
+      "clinico"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 148,
+    "title": "Automated generation of implant-supported bar attachment system for patient-specific edentulous mandible: parametric modelling and finite element analysis",
+    "authors": "Jemaa H, Eisenburger M, Neuhaus MT, Greuling A",
+    "journal": "Computer Methods in Biomechanics and Biomedical Engineering",
+    "year": 2025,
+    "doi": "10.1080/10255842.2025.2516175",
+    "abstract": "Propone un flujo de trabajo automatizado para generar sistemas de barra implantosoportada personalizados mediante modelado paramétrico y FEA en mandíbulas edéntulas específicas del paciente. Demuestra que la geometría individualizada reduce significativamente los picos de estrés en hueso y componentes protésicos.",
+    "tags": [
+      "fea",
+      "geometria",
+      "biomecanica"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 149,
+    "title": "Abutment-Bar Structure Connection Geometry: An Important Design Parameter for Implant-Supported Bar-Retained Overdentures With Cantilever Extension",
+    "authors": "Akgün G, Kayacan R",
+    "journal": "Journal of Oral Implantology",
+    "year": 2023,
+    "doi": "10.1563/aaid-joi-D-22-00055",
+    "abstract": "Evalúa mediante FEA cómo la geometría de la conexión pilar-barra en sobredentaduras con extensión en cantilever influye en la distribución de estrés periimplantario. Concluye que la geometría de conexión es un parámetro de diseño crítico para reducir el estrés óseo en extensiones distales.",
+    "tags": [
+      "fea",
+      "geometria",
+      "cantilever",
+      "biomecanica"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 150,
+    "title": "Stress Distribution Pattern in Mandibular Overdenture Designs Supported by Three Dental Implants: A 3D Finite Element Analysis",
+    "authors": "Aminianpour N, Alikhasi M, Shabanpour Kasari M, Yousefi H, Siadat H",
+    "journal": "Clinical and Experimental Dental Research",
+    "year": 2025,
+    "doi": "10.1002/cre2.70060",
+    "abstract": "Compara mediante FEA 3D diferentes configuraciones de sobredentaduras mandibulares soportadas por tres implantes con y sin cantilever. Los diseños correctamente configurados distribuyeron mejor el estrés en el hueso crestal.",
+    "tags": [
+      "fea",
+      "geometria",
+      "cantilever",
+      "biomecanica"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 151,
+    "title": "Biomechanical evaluation of three full-arch immediate loading protocols in the mandible via finite element analysis: All-on-4, Trefoil, and Five-implant design",
+    "authors": "Baki N, Yildirim Avcu G, Tuzlali M",
+    "journal": "BMC Oral Health",
+    "year": 2025,
+    "doi": "10.1186/s12903-025-07404-1",
+    "abstract": "Compara biomecánicamente mediante FEA tres protocolos de carga inmediata en arco completo mandibular: All-on-4, Trefoil y cinco implantes. El diseño All-on-4 mostró distribución de estrés favorable en hueso cortical comparado con el Trefoil.",
+    "tags": [
+      "fea",
+      "allon4",
+      "biomecanica",
+      "protocolo"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 152,
+    "title": "Mechanical Response of PEKK and PEEK As Frameworks for Implant-Supported Full-Arch Fixed Dental Prosthesis: 3D Finite Element Analysis",
+    "authors": "Villefort RF, Diamantino PJS, von Zeidler SLV, Borges ALS, Silva-Concílio LR, Saavedra GSFA, Tribst JPM",
+    "journal": "European Journal of Dentistry",
+    "year": 2022,
+    "doi": "10.1055/s-0041-1731833",
+    "abstract": "Analiza mediante FEA 3D la respuesta mecánica de estructuras PEKK y PEEK para prótesis fija de arco completo implantosoportada en configuración All-on-4. El PEKK demostró menor concentración de estrés en el tornillo protésico gracias a su mayor amortiguación de choque.",
+    "tags": [
+      "fea",
+      "materiales",
+      "allon4",
+      "biomecanica"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 153,
+    "title": "Evaluation of stresses on mandible bone and prosthetic parts in fixed prosthesis by utilizing CFR-PEEK, PEKK and PEEK frameworks",
+    "authors": "Shash YH, El-Wakad MT, El-Dosoky MAA, Dohiem MM",
+    "journal": "Scientific Reports",
+    "year": 2023,
+    "doi": "10.1038/s41598-023-38288-2",
+    "abstract": "Compara mediante FEA el comportamiento mecánico de estructuras CFR-PEEK, PEKK y PEEK en prótesis fija mandibular implantosoportada bajo diferentes densidades óseas. Las estructuras con menor módulo elástico son recomendables para reducir estrés en tejidos óseos de baja densidad.",
+    "tags": [
+      "fea",
+      "materiales",
+      "biomecanica",
+      "hueso"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 154,
+    "title": "Polyetheretherketone CAD/CAM framework for All-on-Four mandibular full-arch prosthesis: 3 Years retrospective study of peri-implant soft tissue changes",
+    "authors": "Mourad KE, Altonbary GY, Emera RMK, Hegazy SAF",
+    "journal": "Journal of Prosthodontics",
+    "year": 2023,
+    "doi": "10.1111/jopr.13602",
+    "abstract": "Estudio retrospectivo de 3 años que evalúa cambios en tejidos blandos periimplantarios en prótesis All-on-Four mandibulares con estructura CAD/CAM en PEEK. Los resultados mostraron cambios periimplantarios mínimos y resultados favorables en tejidos blandos.",
+    "tags": [
+      "materiales",
+      "allon4",
+      "protocolo"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 155,
+    "title": "Five years of radiographic evaluation for the peri-implant bone changes of all-on-four implant prostheses constructed from different framework materials using different digital construction techniques",
+    "authors": "Mourad KE, Rashed NHAR, Altonbary GY, Hegazy SAF",
+    "journal": "BMC Oral Health",
+    "year": 2024,
+    "doi": "10.1186/s12903-024-04642-7",
+    "abstract": "Evalúa radiográficamente a 5 años la pérdida ósea periimplantaria en prótesis All-on-Four construidas con diferentes materiales incluyendo PEEK y técnicas digitales. Las estructuras PEEK mostraron mayor pérdida ósea vertical comparada con materiales metálicos.",
+    "tags": [
+      "materiales",
+      "allon4",
+      "hueso"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 156,
+    "title": "Outcomes of Fixed Full-Arch Rehabilitations Supported by Tilted and Axially Placed Implants: A Systematic Review and Meta-Analysis",
+    "authors": "Del Fabbro M, Pozzi A, Romeo D, de Araújo Nobre M, Agliardi E",
+    "journal": "International Journal of Oral and Maxillofacial Implants",
+    "year": 2022,
+    "doi": "10.11607/jomi.9710",
+    "abstract": "Revisión sistemática y metaanálisis que evalúa resultados clínicos de rehabilitaciones de arco completo con implantes inclinados y axiales. No se encontraron diferencias significativas en supervivencia ni pérdida ósea entre ambos tipos a largo plazo.",
+    "tags": [
+      "allon4",
+      "sistematica",
+      "protocolo"
+    ],
+    "category": "sistematica"
+  },
+  {
+    "id": 157,
+    "title": "Implant survival rate and marginal bone loss with the all-on-4 immediate-loading strategy: A clinical retrospective study with 1 to 4 years of follow-up",
+    "authors": "Yang Q, Guan X, Wang B, Zhang D, Bai J, Zhang X, Zhou Y",
+    "journal": "Journal of Prosthetic Dentistry",
+    "year": 2023,
+    "doi": "10.1016/j.prosdent.2021.12.020",
+    "abstract": "Estudio retrospectivo de 56 pacientes con 325 implantes en protocolo All-on-4 con carga inmediata y seguimiento de 1 a 4 años. Tasa de supervivencia del 99.38%; tabaquismo, bruxismo y género femenino identificados como factores de riesgo para pérdida ósea marginal.",
+    "tags": [
+      "allon4",
+      "bruxismo",
+      "hueso"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 158,
+    "title": "Effect of bar designs on peri-implant tissues health in implant-supported removable prostheses: a systematic review",
+    "authors": "Omeish N, Bessou L, Carra MC, Tavernier B, Porporatti AL",
+    "journal": "BMC Oral Health",
+    "year": 2024,
+    "doi": "10.1186/s12903-024-03915-5",
+    "abstract": "Revisión sistemática sobre cómo diferentes diseños de barra afectan la salud de los tejidos periimplantarios en prótesis removibles implantosoportadas. El análisis de 5 estudios con 261 sujetos no encontró diferencias significativas entre diseños.",
+    "tags": [
+      "geometria",
+      "sistematica",
+      "protocolo"
+    ],
+    "category": "sistematica"
+  },
+  {
+    "id": 159,
+    "title": "Effect of different impression techniques on marginal integrity of CAD-CAM milled all-on-four mandibular frameworks: an in vitro study",
+    "authors": "Mahmoud RA, Abdel Hakim AA, Rady NA",
+    "journal": "BMC Oral Health",
+    "year": 2025,
+    "doi": "10.1186/s12903-025-05784-y",
+    "abstract": "Compara el ajuste marginal de estructuras mandibulares All-on-Four fresadas CAD/CAM obtenidas mediante impresiones digitales vs. convencionales. Las técnicas digitales produjeron estructuras con menor desajuste vertical en ciertos pilares.",
+    "tags": [
+      "pasividad",
+      "allon4",
+      "protocolo"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 160,
+    "title": "Internal and Marginal Fit Accuracy of Pre-sintered CAD/CAM Implant-Supported Frameworks Before and After Porcelain Layering",
+    "authors": "Rismanchian M, Davoudi A, Nosouhian S, Tabesh M, Rismanchian M",
+    "journal": "International Journal of Oral and Maxillofacial Implants",
+    "year": 2022,
+    "doi": "10.11607/jomi.8413",
+    "abstract": "Evalúa la precisión del ajuste interno y marginal de estructuras CAD/CAM pre-sinterizadas antes y después de aplicar porcelana. La cocción de porcelana aumenta significativamente la brecha marginal comparado con el estado pre-sinterizado.",
+    "tags": [
+      "pasividad",
+      "materiales"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 161,
+    "title": "Comparison of Different Intraoral Scanners With Prefabricated Aid on Accuracy and Framework Passive Fit of Digital Complete-Arch Implant Impression: An In Vitro Study",
+    "authors": "Fu XJ, Liu M, Shi JY, Deng K, Lai HC, Gu W, Zhang XM",
+    "journal": "Clinical Oral Implants Research",
+    "year": 2025,
+    "doi": "10.1111/clr.14353",
+    "abstract": "Compara la precisión de diferentes escáneres intraorales con auxiliares prefabricados para impresiones digitales de arco completo y su efecto en el ajuste pasivo. La selección del escáner y el uso de auxiliares influyen significativamente en el ajuste pasivo final.",
+    "tags": [
+      "pasividad",
+      "protocolo"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 162,
+    "title": "Accuracy of fit for cobalt-chromium bar over two implants fabricated with different manufacturing techniques: an in-vitro study",
+    "authors": "Nassar HI, Fateen A",
+    "journal": "BMC Oral Health",
+    "year": 2023,
+    "doi": "10.1186/s12903-023-03700-w",
+    "abstract": "Compara in vitro la precisión del ajuste de barras de cobalto-cromo sobre dos implantes fabricadas por fresado CAD/CAM vs. colado convencional. Las barras fresadas CAD/CAM demostraron mayor precisión de ajuste.",
+    "tags": [
+      "pasividad",
+      "geometria",
+      "materiales"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 163,
+    "title": "Accuracy of intraoral photogrammetry versus direct digital implant impressions in the fully edentulous lower jaw: An in vitro study",
+    "authors": "Brakoč J, Todorović A, Mangano FG, Glišić M, Šćepanović M",
+    "journal": "Journal of Dentistry",
+    "year": 2025,
+    "doi": "10.1016/j.jdent.2025.105654",
+    "abstract": "Compara in vitro la precisión de la fotogrametría intraoral frente a escáneres digitales directos para impresiones de arco completo edéntulo mandibular. La fotogrametría intraoral demostró desviación estadísticamente menor.",
+    "tags": [
+      "pasividad",
+      "protocolo"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 164,
+    "title": "Zirconia full-arch implant prostheses: Survival, complications, and prosthetic space dimensions with 115 edentulous jaws",
+    "authors": "Papaspyridakos P, Sinada N, Ntovas P, Barmak AB, Chochlidakis K",
+    "journal": "Journal of Prosthodontics",
+    "year": 2025,
+    "doi": "10.1111/jopr.13922",
+    "abstract": "Analiza supervivencia, complicaciones y espacio protésico en 115 arcadas edéntulas con prótesis de zirconia monolítica de arco completo con seguimiento de hasta 6 años. Se reportan altas tasas de supervivencia con complicaciones mecánicas menores.",
+    "tags": [
+      "materiales",
+      "sistematica"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 165,
+    "title": "Clinical performance of full-arch implant-supported fixed restorations made of monolithic zirconia luted to a titanium bar: A retrospective study",
+    "authors": "Mijiritsky E, Elad A, Krausz R, Ivanova V, Zlatev S",
+    "journal": "Journal of Dentistry",
+    "year": 2023,
+    "doi": "10.1016/j.jdent.2023.104675",
+    "abstract": "Evalúa retrospectivamente el desempeño clínico de restauraciones de arco completo en zirconia monolítica cementada sobre barra de titanio con seguimiento medio de 16 meses. Todos los implantes sobrevivieron sin complicaciones biomecánicas significativas.",
+    "tags": [
+      "materiales",
+      "biomecanica"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 166,
+    "title": "Retrospective Cohort Evaluation of Full-Arch Zirconia Implant-Supported Fixed Prostheses",
+    "authors": "Al-Tarawneh S, Thalji G, Shonberg D, Fayz L, Cooper L",
+    "journal": "International Journal of Oral and Maxillofacial Implants",
+    "year": 2023,
+    "doi": "10.11607/jomi.10022",
+    "abstract": "Evalúa retrospectivamente 173 prótesis fijas de zirconia de arco completo implantosoportadas con seguimiento medio de 1.9 años. Resultados con altas tasas de supervivencia y complicaciones estéticas menores.",
+    "tags": [
+      "materiales"
+    ],
+    "category": "clinico"
+  },
+  {
+    "id": 167,
+    "title": "Long-term Clinical Outcomes and Cost-Effectiveness of Full-Arch Implant-Supported Zirconia-Based and Metal-Acrylic Fixed Dental Prostheses: A Retrospective Analysis",
+    "authors": "Barootchi S, Askar H, Ravidà A, Gargallo-Albiol J, Travan S, Wang HL",
+    "journal": "International Journal of Oral and Maxillofacial Implants",
+    "year": 2020,
+    "doi": "10.11607/jomi.7833",
+    "abstract": "Compara resultados clínicos a largo plazo (media 8.7 años) y costo-efectividad de prótesis de arco completo en zirconia versus metal-acrílico. Las prótesis de zirconia mostraron tasas de supervivencia comparables con menor frecuencia de complicaciones mecánicas.",
+    "tags": [
+      "materiales",
+      "sistematica"
+    ],
+    "category": "sistematica"
+  },
+  {
+    "id": 168,
+    "title": "Effects of Cantilever Length and Implant Inclination on the Stress Distribution of Mandibular Prosthetic Restorations Constructed from Monolithic Zirconia Ceramic",
+    "authors": "Durkan R, Oyar P, Deste G",
+    "journal": "International Journal of Oral and Maxillofacial Implants",
+    "year": 2020,
+    "doi": "10.11607/jomi.7744",
+    "abstract": "Analiza mediante FEA el efecto de la longitud del cantilever (5 mm vs. 9 mm) y la inclinación del implante sobre distribución de estrés en prótesis mandibulares de zirconia monolítica. Los cantilevers de mayor longitud generaron concentraciones de estrés significativamente mayores.",
+    "tags": [
+      "fea",
+      "cantilever",
+      "biomecanica",
+      "materiales"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 169,
+    "title": "A Biomechanical Evaluation of Distal Tilting Implants in All-on-Four Rehabilitation with Mild Mandibular Resorption: A Finite Element Analysis Study",
+    "authors": "Tsai MH, Lee CH, Wu AYJ, Lei YN, Chen HS, Wu YL",
+    "journal": "Materials (Basel)",
+    "year": 2024,
+    "doi": "10.3390/ma17225435",
+    "abstract": "Evalúa biomecánicamente mediante FEA el efecto de la inclinación de implantes distales en rehabilitaciones All-on-Four mandibulares con resorción ósea leve. Los implantes inclinados distalmente con conexiones adecuadas distribuyeron el estrés más favorablemente.",
+    "tags": [
+      "fea",
+      "allon4",
+      "cantilever",
+      "hueso",
+      "biomecanica"
+    ],
+    "category": "fea"
+  },
+  {
+    "id": 170,
+    "title": "Biomechanical Analysis of Different Framework Design, Material and Bone Density in the Edentulous Mandible With Fixed Implant-Supported Prostheses: A 3D Finite Element Study",
+    "authors": "Yu W, Chen S, Ma L, Ma X, Xu X",
+    "journal": "Journal of Prosthodontics",
+    "year": 2023,
+    "doi": "10.1111/jopr.13532",
+    "abstract": "Estudio FEA 3D comparando diferentes diseños y materiales de estructura (titanio, zirconia, PEEK) en prótesis fija mandibular bajo distintas densidades óseas. Las estructuras de zirconia en hueso de alta densidad mejoraron la distribución de estrés frente a las de PEEK.",
+    "tags": [
+      "fea",
+      "materiales",
+      "biomecanica",
+      "hueso"
+    ],
+    "category": "fea"
+  }
+]

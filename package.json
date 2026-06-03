@@ -1,0 +1,11 @@
+{
+  "name": "dentia",
+  "version": "1.5.3",
+  "description": "DentIA — Agente clínico para prótesis híbridas implantosoportadas · USTA",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
