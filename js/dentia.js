@@ -380,8 +380,8 @@ const state = {
   model: 'qwen3:8b',
   deepAnalysis: false,
   chatHistory: [],
-  provider: localStorage.getItem('dentia_provider') || (window.__GROQ_KEY__ ? 'groq' : 'ollama'),
-  groqKey:  localStorage.getItem('dentia_groq_key')  || window.__GROQ_KEY__ || ''
+  provider: localStorage.getItem('dentia_provider') || (window.__GROQ_READY__ ? 'groq' : 'ollama'),
+  groqKey:  localStorage.getItem('dentia_groq_key')  || ''
 };
 
 // ════════════════════════════════════════════════════════════
@@ -1062,11 +1062,16 @@ async function sendMessage() {
     let reply, elapsed, tokens, tps;
 
     if (state.provider === 'groq') {
-      // ── GROQ CLOUD ──
-      if (!state.groqKey) throw new Error('GROQ_NO_KEY');
-      const groqRes = await fetch('https://api.groq.com/openai/v1/chat/completions', {
+      // ── GROQ CLOUD (vía proxy /api/groq para evitar CORS) ──
+      const useProxy = window.__GROQ_READY__;
+      if (!useProxy && !state.groqKey) throw new Error('GROQ_NO_KEY');
+      const groqEndpoint = useProxy ? '/api/groq' : 'https://api.groq.com/openai/v1/chat/completions';
+      const groqHeaders  = useProxy
+        ? { 'Content-Type': 'application/json' }
+        : { 'Content-Type': 'application/json', 'Authorization': `Bearer ${state.groqKey}` };
+      const groqRes = await fetch(groqEndpoint, {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json', 'Authorization': `Bearer ${state.groqKey}` },
+        headers: groqHeaders,
         signal: activeController.signal,
         body: JSON.stringify({
           model: state.model.replace('groq:', ''),
@@ -1282,7 +1287,7 @@ function checkOllamaStatus() {
   const dot = document.getElementById('ollama-dot');
   const label = document.getElementById('ollama-label');
   if (state.provider === 'groq') {
-    if (state.groqKey) {
+    if (window.__GROQ_READY__ || state.groqKey) {
       dot.className = 'ollama-dot online';
       label.textContent = 'Groq activo';
     } else {
