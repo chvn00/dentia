@@ -435,6 +435,18 @@
     </div>
 
     <div class="chat-area">
+      <!-- Franja de temas visible solo en móvil -->
+      <div class="mobile-topic-strip" id="mobile-topic-strip">
+        <button class="mobile-topic-btn active" onclick="setTopicMobile(this,'all')">📑 Todos</button>
+        <button class="mobile-topic-btn" onclick="setTopicMobile(this,'biomecanica')">⚙️ Biomecánica</button>
+        <button class="mobile-topic-btn" onclick="setTopicMobile(this,'materiales')">🔬 Materiales</button>
+        <button class="mobile-topic-btn" onclick="setTopicMobile(this,'geometria')">📐 Geometría</button>
+        <button class="mobile-topic-btn" onclick="setTopicMobile(this,'allon4')">🦷 All-on-4</button>
+        <button class="mobile-topic-btn" onclick="setTopicMobile(this,'cantilever')">📏 Cantilever</button>
+        <button class="mobile-topic-btn" onclick="setTopicMobile(this,'hueso')">🦴 Hueso</button>
+        <button class="mobile-topic-btn" onclick="setTopicMobile(this,'bruxismo')">😬 Bruxismo</button>
+        <button class="mobile-topic-btn" onclick="setTopicMobile(this,'protocolo')">📋 Protocolo</button>
+      </div>
       <div class="chat-messages" id="chat-messages">
         <div class="chat-welcome">
           <div class="chat-welcome-icon">🦷</div>

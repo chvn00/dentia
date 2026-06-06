@@ -991,6 +991,18 @@ function setTopic(btn, topic) {
   state.topic = topic;
 }
 
+function setTopicMobile(btn, topic) {
+  document.querySelectorAll('.mobile-topic-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  // sincronizar con sidebar
+  document.querySelectorAll('.topic-chip').forEach(b => {
+    const fn = b.getAttribute('onclick') || '';
+    if (fn.includes(`'${topic}'`)) b.classList.add('active');
+    else b.classList.remove('active');
+  });
+  state.topic = topic;
+}
+
 function setSuggestedQ(btn) {
   document.getElementById('chat-input').value = btn.textContent.trim();
   document.getElementById('chat-input').focus();
