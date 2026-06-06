@@ -1932,10 +1932,30 @@
     .caso-title { font-size: 10.5px; }
     .caso-num   { width: 16px; height: 16px; font-size: 8px; margin-top: 0; }
     .sim-right   { flex: none; width: 100%; padding: 8px; overflow: visible; box-sizing: border-box; }
-    .sim-rec-wrap { padding: 0; }
-    .result-hero  { padding: 10px 12px; }
+    .sim-rec-wrap { padding: 0; width: 100%; box-sizing: border-box; }
+    /* Caja de material recomendado — columna, ancho 100% */
+    .result-hero {
+      flex-direction: column;
+      width: 100%; box-sizing: border-box;
+      overflow: hidden; padding: 0;
+    }
+    .rec-hero-text {
+      padding: 10px 12px;
+      min-width: unset; width: 100%;
+      border-bottom: 1px solid rgba(0,119,182,0.2);
+    }
     .rec-hero-text h2 { font-size: 13px; }
-    .rec-hero-params { flex-direction: column; gap: 5px; }
+    .rec-hero-divider { display: none; }
+    .rec-hero-params {
+      flex-direction: column; width: 100%;
+      box-sizing: border-box; padding: 8px 10px; gap: 0;
+    }
+    .params-col {
+      width: 100%; box-sizing: border-box;
+      padding: 6px 0; border-bottom: 1px solid var(--border);
+    }
+    .params-col:last-child { border-bottom: none; }
+    .rec-hero-params .btn-group { flex-wrap: wrap; gap: 4px; }
     .field-label  { font-size: 10px; }
     .opt-btn      { font-size: 10px; padding: 4px 7px; }
     .rec-card     { padding: 8px 10px; }
