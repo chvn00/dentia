@@ -195,9 +195,9 @@
     padding: 12px 22px;
     font-size: 13px;
     cursor: pointer;
-    border: none;
     background: none;
     color: var(--text2);
+    border: 1px solid transparent;
     border-bottom: 3px solid transparent;
     font-family: var(--font-sans);
     font-weight: 500;
@@ -207,18 +207,29 @@
     align-items: center;
     gap: 7px;
     letter-spacing: 0.01em;
+    border-radius: 8px 8px 0 0;
+    margin-bottom: -2px;
+  }
+  .tab + .tab {
+    border-left: 1px solid var(--border);
   }
   .tab:hover {
     color: var(--text);
     background: rgba(0,119,182,0.05);
-    border-radius: 6px 6px 0 0;
+    border-color: var(--border) var(--border) transparent var(--border);
   }
   .tab.active {
     color: var(--accent);
-    border-bottom-color: var(--accent);
-    background: var(--blue-dim);
-    border-radius: 6px 6px 0 0;
+    border-bottom: 3px solid var(--accent);
+    border-top: 1px solid var(--border);
+    border-left: 1px solid var(--border);
+    border-right: 1px solid var(--border);
+    background: white;
     font-weight: 600;
+    box-shadow: 0 -2px 8px rgba(0,119,182,0.07);
+  }
+  .tab.active + .tab {
+    border-left: 1px solid var(--border);
   }
   .tab-icon { font-size: 15px; }
 
