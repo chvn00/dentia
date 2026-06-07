@@ -49,7 +49,14 @@
   v1.5.4  Soporte dual Ollama + Groq Cloud: toggle de proveedor,
           3 modelos Groq (Llama 3.3 70B, Llama 3.1 8B, Gemma2 9B),
           API Key guardada en localStorage, status indicator actualizado
-          · Versión activa: 2026-06-03
+
+  v1.5.5  Responsive móvil completo (tabs arriba, chips horizontales,
+          diagrama visible, simulador scroll libre); stack tecnológico
+          actualizado con Groq/Node.js/Railway; diagrama SVG con Groq
+          Cloud + Ollama local; icono iOS (apple-touch-icon.png);
+          estadística "caso más recurrente"; header actualizado;
+          Motor de IA en Acerca de muestra Groq + Ollama separados
+          · Versión activa: 2026-06-07
 
 ====================================================
 
@@ -461,6 +468,35 @@ CAMBIO 36: Pantalla de carga animada al inicio
 - "Powered by CHVN & LMRC" movido debajo del botón INITIUM, en negrita
   sin animación para destacarse con sobriedad
 - Card ampliada: padding 40×48 → 52×64 px, ancho 360–440 → 460–540 px
+
+----------------------------------------------------
+CAMBIO 57: Motor de IA en Acerca de — Groq + Ollama — v1.5.5
+----------------------------------------------------
+- Tarjeta "Motor de IA" rediseñada con dos secciones diferenciadas:
+  · ⚡ Groq Cloud (principal): Llama 3.3 70B ★, Llama 3.1 8B, Gemma2 9B
+  · 🦙 Ollama Local (offline): Qwen3 8B, Llama 3.2 3B, Gemma3 12B,
+    Qwen3 14B, Qwen3 32B
+- Nuevos estilos: .about-engine-section, .about-engine-groq (morado),
+  .about-engine-ollama (naranja)
+- Archivos: AgenteDentIA_ProtesisHibridas.html, css/dentia.css
+
+----------------------------------------------------
+CAMBIO 56: Sesión responsive + mejoras v1.5.5 — 2026-06-07
+----------------------------------------------------
+- Responsive móvil completo: tabs sticky arriba, chips horizontales
+  en simulador, chat pantalla completa con franja de temas
+- Stack tecnológico actualizado: Groq Cloud, Node.js, Railway
+- Diagrama SVG arquitectura con Groq Cloud (principal) + Ollama
+- apple-touch-icon.png: icono iOS 180×180 diente blanco/fondo azul
+- Meta tags PWA: apple-mobile-web-app-capable, title "DentIA"
+- Estadística "caso más recurrente" con tracking por caso clínico
+- Header: "Sistema de Apoyo Clínico con IA", Powered by CHVN
+- Disclaimer agente: Llama 3.3 70B vía Groq Cloud
+- Botón 🗑 limpiar historial visible en móvil junto al input
+- Bordes en pestañas para diferenciarlas visualmente
+- Diagrama arquitectura reducido a max-width 520px
+- Archivos: AgenteDentIA_ProtesisHibridas.html, css/dentia.css,
+  js/dentia.js, apple-touch-icon.png, CHANGELOG.txt
 
 ----------------------------------------------------
 CAMBIO 56: Soporte dual Ollama + Groq Cloud — v1.5.4

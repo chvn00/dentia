@@ -2580,6 +2580,29 @@
   color: #7a3a00;
   font-weight: 700;
 }
+.about-engine-section {
+  margin-bottom: 10px;
+}
+.about-engine-section:last-child { margin-bottom: 0; }
+.about-engine-label {
+  display: inline-block;
+  font-size: 10px;
+  font-weight: 700;
+  font-family: var(--font-mono);
+  padding: 2px 8px;
+  border-radius: 10px;
+  margin-bottom: 2px;
+}
+.about-engine-groq {
+  background: #ede9fe;
+  color: #4338ca;
+  border: 1px solid #a5b4fc;
+}
+.about-engine-ollama {
+  background: #fff3e6;
+  color: #7a3a00;
+  border: 1px solid #f0c080;
+}
 
 /* Fila de desarrolladores */
 .about-devs-row {
