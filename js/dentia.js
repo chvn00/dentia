@@ -328,6 +328,12 @@ function loadCaso(id) {
 
   casoActivoId = id;
 
+  // Registrar uso del caso en estadísticas
+  const stats = loadStats();
+  if (!stats.byCaso) stats.byCaso = {};
+  stats.byCaso[id] = (stats.byCaso[id] || 0) + 1;
+  saveStats(stats);
+
   // Actualizar estado
   Object.assign(state, caso.params);
 
@@ -1532,6 +1538,18 @@ function renderStats() {
     document.getElementById('stat-top-topic').textContent = topicLabels[topicEntries[0][0]] || topicEntries[0][0];
   } else {
     document.getElementById('stat-top-topic').textContent = '—';
+  }
+
+  // Caso más recurrente
+  const byCaso = stats.byCaso || {};
+  const casoEntries = Object.entries(byCaso).sort((a,b) => b[1] - a[1]);
+  const elCaso = casoEntries.length > 0 ? CASOS.find(c => c.id === parseInt(casoEntries[0][0])) : null;
+  if (elCaso) {
+    document.getElementById('stat-top-caso').textContent = 'Caso ' + elCaso.id + ' ×' + casoEntries[0][1];
+    document.getElementById('stat-top-caso-label').textContent = elCaso.nombre;
+  } else {
+    document.getElementById('stat-top-caso').textContent = '—';
+    document.getElementById('stat-top-caso-label').textContent = 'Sin datos aún';
   }
 
   // ── Bar chart: artículos citados por categoría ──
