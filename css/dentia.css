@@ -1851,7 +1851,8 @@
     .about-card-devs { grid-column: 1 / -1; }
     .about-devs-row { flex-direction: column; gap: 20px; }
     .about-dev-divider { width: 60%; height: 1px; margin: 0 auto; }
-    .about-diagram-svg { font-size: 85%; }
+    .about-diagram-section { max-width: 680px; }
+    .about-diagram-svg { width: 100%; }
 
     /* FAB */
     .fab-agent { bottom: 20px; right: 16px; }
