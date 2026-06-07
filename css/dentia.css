@@ -2693,6 +2693,10 @@
   max-width: 520px;
   margin: 0 auto 20px;
 }
+/* iPad Pro y pantallas medianas (769px – 1200px) */
+@media (min-width: 769px) and (max-width: 1200px) {
+  .about-diagram-section { max-width: 860px; }
+}
 .about-section-title {
   font-size: 13px;
   font-weight: 700;
