@@ -1281,6 +1281,9 @@
   .stop-btn.visible { display: flex; }
   .stop-btn:hover { background: var(--red); color: white; }
 
+  /* Botón limpiar inline — oculto en desktop, visible en móvil */
+  .clear-btn-inline { display: none; }
+
   .chat-footer-note {
     font-size: 10px;
     color: var(--text3);
@@ -2012,6 +2015,12 @@
     #chat-input      { font-size: 14px; padding: 6px 9px; }
     .send-btn, .stop-btn { width: 32px; height: 32px; font-size: 15px; }
     .chat-footer-row { display: none; }
+    .clear-btn-inline {
+      display: flex; align-items: center; justify-content: center;
+      width: 32px; height: 32px; border-radius: 8px;
+      border: 1px solid var(--border); background: var(--surface2);
+      font-size: 15px; cursor: pointer; flex-shrink: 0;
+    }
 
     /* ══ BASE DE CONOCIMIENTO ══ */
     .kb-toolbar { flex-wrap: wrap; gap: 5px; padding: 6px 8px; }
