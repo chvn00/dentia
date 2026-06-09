@@ -470,6 +470,22 @@ CAMBIO 36: Pantalla de carga animada al inicio
 - Card ampliada: padding 40×48 → 52×64 px, ancho 360–440 → 460–540 px
 
 ----------------------------------------------------
+CAMBIO 59: Clonación repo y push a dentiausta — 2026-06-09
+----------------------------------------------------
+- Repositorio chvn00/dentia clonado localmente en ~/Downloads/dentia-clone
+- Contenido completo subido al repositorio chvn00/dentiausta (rama main)
+
+----------------------------------------------------
+CAMBIO 58: Diagrama arquitectura iPad Pro — v1.5.6 — 2026-06-09
+----------------------------------------------------
+- Media query específica para iPad Pro y tablets grandes (769–1200px):
+  .about-diagram-section { max-width: 860px; }
+- Cubre iPad Pro portrait (1024px) y landscape parcial
+- Breakpoints finales: móvil <480px (560px scroll), tablet 768px (680px),
+  iPad Pro 769–1200px (860px), desktop >1200px (520px)
+- Archivo: css/dentia.css
+
+----------------------------------------------------
 CAMBIO 57: Motor de IA en Acerca de — Groq + Ollama — v1.5.5
 ----------------------------------------------------
 - Tarjeta "Motor de IA" rediseñada con dos secciones diferenciadas:
@@ -981,13 +997,18 @@ CAMBIO 37: Expansión de base de conocimiento + DOI como hipervínculo
   Estado actual del proyecto
 ====================================================
 - Archivo principal: AgenteDentIA_ProtesisHibridas.html
-- Modelos soportados: llama3.2:3b, qwen3:8b (default), gemma3:12b,
-  qwen3:14b, qwen3:32b
+- Versión: v1.5.6
+- Archivo principal: AgenteDentIA_ProtesisHibridas.html
+- Motor IA principal: Groq Cloud (Llama 3.3 70B) · Alternativa: Ollama local
+- Modelos Groq: llama-3.3-70b-versatile (default), llama-3.1-8b-instant, gemma2-9b-it
+- Modelos Ollama: llama3.2:3b, qwen3:8b, gemma3:12b, qwen3:14b, qwen3:32b
 - Tokens por respuesta: 1500
 - Artículos en KB: 170 (en data/articulos.json)
   · 170/170 verificados en PubMed con DOIs reales ✓ (verificación completa)
   · 3 DOIs duplicados pre-existentes (IDs 3/43, 9/169, 69/162) — pendientes de resolver
 - Casos Clínicos: 10 casos realistas precargados en sidebar del simulador
 - Logo institucional: logo_usta.png
+- Repos: chvn00/dentia (principal) · chvn00/dentiausta (espejo)
+- Despliegue: Railway (chvn00/dentia · rama main)
 - Plataforma verificada: macOS (Mac Mini M4 Pro · 24 GB RAM)
 ====================================================
